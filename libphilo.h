@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:31:00 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/03 16:36:18 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/05 21:06:31 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 # include <unistd.h>
 # include <stdio.h>
 # include <stdlib.h>
+# include <sys/time.h>
 # include <pthread.h>
 # define AVAILABLE		1
 # define NO_AVAILABLE	0
@@ -25,8 +26,9 @@
 typedef struct s_list
 {
 	int				nbr;
-	pthread_mutex_t	own_fork;
+	double			last_meal;
 	int				status;
+	pthread_mutex_t	own_fork;
 	struct s_list	*next;
 } t_list;
 
