@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/03 13:15:40 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/04 16:59:18 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/06 19:43:25 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ t_list	*ft_lstnew(int nbr, pthread_mutex_t mutex)
 		return (NULL);
 	}
 	p->own_fork = mutex;
-	p->status	= THINK;
+	p->status	= AVAILABLE;
 	p->next = NULL;
 	return (p);
 }

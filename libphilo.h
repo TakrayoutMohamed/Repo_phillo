@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:31:00 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/05 21:06:31 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/06 18:45:23 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,6 +27,7 @@ typedef struct s_list
 {
 	int				nbr;
 	double			last_meal;
+	double			start_simu;
 	int				status;
 	pthread_mutex_t	own_fork;
 	struct s_list	*next;
