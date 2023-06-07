@@ -6,11 +6,37 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/03 13:15:40 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/06 19:43:25 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/07 19:21:22 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "./../libphilo.h"
+
+/*return the number of millisecond in a given number of seconds*/
+static unsigned long	convert_sec_to_millisec(unsigned long sec)
+{
+	return ((unsigned long) sec * 1000);
+}
+
+/*return the number of millisecond in a given number of microsecond*/
+static unsigned long	convert_microsec_to_millisec(unsigned long microsec)
+{
+	return ((unsigned long) microsec / 1000);
+}
+
+/*return the time of now in seconds since the Epoch(Jan. 1, 1970 at 00:00:00)
+* in milliseconds
+*/
+static unsigned long right_now(void)
+{
+	struct timeval	tv;
+	unsigned long	t_now;
+
+	gettimeofday(&tv, NULL);
+	t_now = convert_sec_to_millisec(tv.tv_sec);
+	t_now += convert_microsec_to_millisec(tv.tv_usec);
+	return (t_now);
+}
 
 t_list	*ft_lstnew(int nbr, pthread_mutex_t mutex)
 {
@@ -26,6 +52,7 @@ t_list	*ft_lstnew(int nbr, pthread_mutex_t mutex)
 		return (NULL);
 	}
 	p->own_fork = mutex;
+	p->last_meal = right_now();
 	p->status	= AVAILABLE;
 	p->next = NULL;
 	return (p);

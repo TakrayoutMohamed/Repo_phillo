@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:31:00 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/06 18:45:23 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/07 22:55:07 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # include <stdlib.h>
 # include <sys/time.h>
 # include <pthread.h>
+# include "./parsing/libparsing.h"
 # define AVAILABLE		1
 # define NO_AVAILABLE	0
 # define THINK			1
@@ -32,6 +33,15 @@ typedef struct s_list
 	pthread_mutex_t	own_fork;
 	struct s_list	*next;
 } t_list;
+
+typedef struct s_args
+{
+	int	nbr_philosophers;
+	int	time_to_die;
+	int	time_to_eat;
+	int	time_to_sleep;
+	int	number_time_to_eat;
+} t_args;
 
 t_list	*ft_lstnew(int nbr, pthread_mutex_t mutex);
 void	ft_lstadd_front(t_list **lst, t_list *new);
