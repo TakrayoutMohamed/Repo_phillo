@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:35:52 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/07 22:56:13 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/08 15:04:33 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -180,6 +180,10 @@ int	main(int argc, char **argv)
 	lst = NULL;
 	args = set_struct(argc, argv);
 	//here check the parsing is ok or not
+	if (!is_valid_parsing(argc, argv, args))
+	{
+		return (0);
+	}
 	while (i < 4)
 	{
 		ft_lstadd_back(&lst, ft_lstnew(i + 1, mutex[i]));
