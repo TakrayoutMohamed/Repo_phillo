@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/07 21:47:17 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/08 14:18:40 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/08 16:53:42 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,10 +46,12 @@ int is_positive_int(char *str, int nbr)
 	int	j;
 
 	j = 0;
+	if (nbr <= 0)
+		return (0);
 	if (str[0] == '+')
 		j++;
 	while (str[j] == '0' && str[j + 1] != '\0')
-			j++;
+		j++;
 	if ((int)ft_strlen(str + j) != ft_nbrlen(nbr))
 		return (0);
 	return (1);

@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:35:52 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/08 15:04:33 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/08 17:11:05 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -78,7 +78,7 @@ int	ft_atoi(char *str)
 
 	negative = 1;
 	nbr = 0;
-	if (!str)
+	if (str)
 	{
 		if (*str == '-' || *str == '+')
 		{
@@ -87,7 +87,10 @@ int	ft_atoi(char *str)
 			str++;
 		}
 		while (*str)
-			nbr = nbr * 10 + *str++ - '0';
+		{
+			nbr = nbr * 10 + *str - 48;
+			str++;
+		}
 	}
 	return (nbr * negative);
 }
@@ -113,58 +116,30 @@ void	*sleep_think_eat(void *args)
 	t_list	*lst;
 
 	lst = (t_list*)args;
-	// printf("here is the test for the use of sec to milli : %ld s = %f millisec\n",t.tv_sec, convert_sec_to_millisec(t.tv_sec));
-	// printf("here is the test for the use of micro to milli : %d us = %f millisec\n",t.tv_usec, convert_microsec_to_millisec(t.tv_usec));
-	
 	lst->last_meal = right_now();
-	// printf("\n%f %d has taken his fork\n", right_now() - lst->last_meal, lst->nbr);
-	// return NULL;
-	lst->start_simu = right_now();
-	// lst->status = AVAILABLE;
 	if (lst->nbr % 2 != 0)
-	{
 		usleep(100);
-	}
 	while (1)
 	{
-		// if (lst->status == AVAILABLE && lst->next->status == AVAILABLE)
-		{
-			// if (lst->status == AVAILABLE)
-			{
-				// lst->status = NO_AVAILABLE;
-				pthread_mutex_lock(&lst->own_fork);
-				// if (right_now() - lst->last_meal > 200)
-				// 	break ;
-				printf("\n%f %d has taken his fork\n", right_now() - lst->last_meal, lst->nbr);
-				// if (lst->next->status == AVAILABLE)
-				{
-					pthread_mutex_lock(&lst->next->own_fork);
-					// if (right_now() - lst->last_meal > 400)
-					// 	break ;
-					printf("\n%f %d has taken next fork\n", right_now() - lst->last_meal, lst->nbr);
-					lst->next->status = NO_AVAILABLE;
-					printf("\n%f %d has START eating\n", right_now() - lst->last_meal, lst->nbr);
-					lst->last_meal = right_now();
-					usleep(convert_millisec_to_microsec(200));
-					lst->last_meal = right_now();
-					printf("\n%f %d has END eating\n", right_now() - lst->last_meal, lst->nbr);
-					// lst->status = AVAILABLE;
-					pthread_mutex_unlock(&lst->own_fork);
-					// lst->next->status = AVAILABLE;
-					pthread_mutex_unlock(&lst->next->own_fork);
+		pthread_mutex_lock(&lst->own_fork);
+		printf("\n%ld %d has taken his fork\n", right_now() - lst->last_meal, lst->nbr);
+		pthread_mutex_lock(&lst->next->own_fork);
+		printf("\n%ld %d has taken next fork\n", right_now() - lst->last_meal, lst->nbr);
+		lst->next->status = NO_AVAILABLE;
+		printf("\n%ld %d has START eating\n", right_now() - lst->last_meal, lst->nbr);
+		lst->last_meal = right_now();
+		usleep(convert_millisec_to_microsec(200));
+		lst->last_meal = right_now();
+		printf("\n%ld %d has END eating\n", right_now() - lst->last_meal, lst->nbr);
+		pthread_mutex_unlock(&lst->own_fork);
+		pthread_mutex_unlock(&lst->next->own_fork);
 
-					printf("\n%f %d has START sleeping\n", right_now() - lst->last_meal, lst->nbr);
-					usleep(convert_millisec_to_microsec(200));
-					printf("\n%f %d has END sleeping\n", right_now() - lst->last_meal, lst->nbr);
-					printf("\n%f %d has START thinking\n", right_now() - lst->last_meal, lst->nbr);
-					printf("\n%f %d has END thinking\n", right_now() - lst->last_meal, lst->nbr);
-				}
-			}
-		}
+		printf("\n%ld %d has START sleeping\n", right_now() - lst->last_meal, lst->nbr);
+		usleep(convert_millisec_to_microsec(200));
+		printf("\n%ld %d has END sleeping\n", right_now() - lst->last_meal, lst->nbr);
+		printf("\n%ld %d has START thinking\n", right_now() - lst->last_meal, lst->nbr);
+		printf("\n%ld %d has END thinking\n", right_now() - lst->last_meal, lst->nbr);
 	}
-	// printf("\n%f %d died\n", right_now() - lst->last_meal, lst->nbr);
-	// lst->status = NO_AVAILABLE;
-	// exit(1);
 	return (NULL);
 }
 
@@ -179,13 +154,21 @@ int	main(int argc, char **argv)
 	i = 0;
 	lst = NULL;
 	args = set_struct(argc, argv);
-	//here check the parsing is ok or not
+	// printf("\nnumber of argc = %d\n",argc);
+	// printf("\nthe nbr of philo = %d\n",args->nbr_philosophers);
+	// printf("\nthe nbr time to eat = %d\n",args->number_time_to_eat);
+	// printf("\ntime to die  = %d\n",args->time_to_die);
+	// printf("\ntime to die  = %d\n",args->time_to_eat);
+	// printf("\ntime to die  = %d\n",args->time_to_sleep);
 	if (!is_valid_parsing(argc, argv, args))
 	{
-		return (0);
+		return (free(args), 0);
 	}
-	while (i < 4)
+	// exit(1);
+	while ((unsigned long)i < args->nbr_philosophers)
 	{
+		
+		lst->args = args; //here it sigfault
 		ft_lstadd_back(&lst, ft_lstnew(i + 1, mutex[i]));
 		if (pthread_create(&thread[i], NULL, &sleep_think_eat, ft_lstlast(lst)) != 0)
 		{
@@ -199,9 +182,9 @@ int	main(int argc, char **argv)
 	i = 0;
 	while (lst)
 	{
-		if (right_now() - lst->last_meal > 215)
+		if (right_now() - lst->last_meal > args->time_to_die)
 		{
-			printf("\n%f %d died\n", right_now() - lst->last_meal, lst->nbr);
+			printf("\n%ld %d died\n", right_now() - lst->last_meal, lst->nbr);
 			return (0);
 		}
 		lst = lst->next;
