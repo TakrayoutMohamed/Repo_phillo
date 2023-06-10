@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:31:00 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/08 17:01:31 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/10 16:48:36 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,7 @@
 typedef struct s_args
 {
 	unsigned long	nbr_philosophers;
+	int				printable;
 	unsigned long	time_to_die;
 	unsigned long	time_to_eat;
 	unsigned long	time_to_sleep;
@@ -33,7 +34,8 @@ typedef struct s_list
 {
 	int				nbr;
 	unsigned long	last_meal;
-	int				nbr_time_to_eat;
+	unsigned long	start_simul;
+	unsigned long	nbr_time_eaten;
 	int				status;
 	pthread_mutex_t	own_fork;
 	t_args			*args;
@@ -43,7 +45,7 @@ typedef struct s_list
 
 # include "./parsing/libparsing.h"
 
-t_list	*ft_lstnew(int nbr, pthread_mutex_t mutex);
+t_list	*ft_lstnew(int nbr);
 void	ft_lstadd_front(t_list **lst, t_list *new);
 int		ft_lstsize(t_list *lst);
 t_list	*ft_lstlast(t_list *lst);

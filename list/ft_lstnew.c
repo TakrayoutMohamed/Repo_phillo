@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/03 13:15:40 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/08 16:59:55 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/10 16:48:48 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,9 +38,10 @@ static unsigned long right_now(void)
 	return (t_now);
 }
 
-t_list	*ft_lstnew(int nbr, pthread_mutex_t mutex)
+t_list	*ft_lstnew(int nbr)
 {
-	t_list	*p;
+	t_list			*p;
+	pthread_mutex_t mutex;
 
 	p = (t_list *)malloc(sizeof(t_list));
 	if (!p)

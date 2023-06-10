@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:35:52 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/08 17:11:05 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/10 16:57:14 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,14 @@ void	print_lst(t_list *lst)
 		printf("| nbr    = %d ",lst->nbr);
 		printf("| mutex  = %p ",&(lst->own_fork));
 		printf("| status = %d |\n",lst->status);
-		lst = lst->next;
+		printf("|side struct |\n");
+		printf("\t||nbr_philosophers   = %lu\n",lst->args->nbr_philosophers);
+		printf("\t||number_time_to_eat = %lu\n",lst->args->number_time_to_eat);
+		printf("\t||time_to_die  	   = %lu\n",lst->args->time_to_die);
+		printf("\t||time_to_eat  	   = %lu\n",lst->args->time_to_eat);
+		printf("\t||time_to_sleep      = %lu\n",lst->args->time_to_sleep);
+		printf("|end side struct |\n");
+			lst = lst->next;
 		if (lst->nbr == breaker)
 			break ;
 	}
@@ -58,18 +65,35 @@ unsigned long	convert_millisec_to_microsec(unsigned long millisec)
 unsigned long right_now(void)
 {
 	struct timeval	tv;
-	unsigned long	t_now;
+	// unsigned long	t_now;
 
 	gettimeofday(&tv, NULL);
-	t_now = convert_sec_to_millisec(tv.tv_sec);
-	t_now += convert_microsec_to_millisec(tv.tv_usec);
-	return (t_now);
+	// t_now = convert_sec_to_millisec(tv.tv_sec);
+	// t_now += convert_microsec_to_millisec(tv.tv_usec);
+	return ((tv.tv_sec * 1000) + (tv.tv_usec / 1000));
 }
 
 // void	eat(t_list *lst, double ts)
 // {
 
 // }
+
+/*sleep a proccess or a thread for some time in milliseconds*/
+void ft_usleep(unsigned long unbr)
+{
+    unsigned long   time;
+    unsigned long   start;
+
+    time = (unbr * 95) / 100;
+    start = right_now();
+    usleep(time * 1000);
+    while(1)
+    {
+        if (right_now() - start >= unbr)
+            break ;
+        usleep(90);
+    }
+}
 
 int	ft_atoi(char *str)
 {
@@ -104,11 +128,26 @@ t_args	*set_struct(int argc, char **argv)
 	args->time_to_die = ft_atoi(argv[2]);
 	args->time_to_eat = ft_atoi(argv[3]);
 	args->time_to_sleep = ft_atoi(argv[4]);
+	args->printable = 1;
 	if (argc == 6)
 		args->number_time_to_eat = ft_atoi(argv[5]);
 	else
-		args->number_time_to_eat = 2147483647;
+		args->number_time_to_eat = 0;
 	return (args);
+}
+
+void	print_state(char c, t_list *lst)
+{
+	if (!lst->args->printable)
+		return ;
+	else if (c == 'f')
+		printf("\n%ld %d has taken a fork\n", right_now() - lst->start_simul, lst->nbr);
+	else if (c == 'e')
+		printf("\n%ld %d is eating\n", right_now() - lst->start_simul, lst->nbr);
+	else if (c == 's')
+		printf("\n%ld %d is sleeping\n", right_now() - lst->start_simul, lst->nbr);
+	else if (c == 't')
+		printf("\n%ld %d  is thinking\n", right_now() - lst->start_simul, lst->nbr);
 }
 
 void	*sleep_think_eat(void *args)
@@ -117,90 +156,84 @@ void	*sleep_think_eat(void *args)
 
 	lst = (t_list*)args;
 	lst->last_meal = right_now();
-	if (lst->nbr % 2 != 0)
+	lst->start_simul = right_now();
+	if (lst->nbr & 1)
 		usleep(100);
 	while (1)
 	{
 		pthread_mutex_lock(&lst->own_fork);
-		printf("\n%ld %d has taken his fork\n", right_now() - lst->last_meal, lst->nbr);
+		print_state('f', lst);
 		pthread_mutex_lock(&lst->next->own_fork);
-		printf("\n%ld %d has taken next fork\n", right_now() - lst->last_meal, lst->nbr);
-		lst->next->status = NO_AVAILABLE;
-		printf("\n%ld %d has START eating\n", right_now() - lst->last_meal, lst->nbr);
+		print_state('f', lst);
+		print_state('e', lst);
+		ft_usleep(lst->args->time_to_eat);
 		lst->last_meal = right_now();
-		usleep(convert_millisec_to_microsec(200));
-		lst->last_meal = right_now();
-		printf("\n%ld %d has END eating\n", right_now() - lst->last_meal, lst->nbr);
-		pthread_mutex_unlock(&lst->own_fork);
+		lst->nbr_time_eaten += 1;
 		pthread_mutex_unlock(&lst->next->own_fork);
-
-		printf("\n%ld %d has START sleeping\n", right_now() - lst->last_meal, lst->nbr);
-		usleep(convert_millisec_to_microsec(200));
-		printf("\n%ld %d has END sleeping\n", right_now() - lst->last_meal, lst->nbr);
-		printf("\n%ld %d has START thinking\n", right_now() - lst->last_meal, lst->nbr);
-		printf("\n%ld %d has END thinking\n", right_now() - lst->last_meal, lst->nbr);
+		pthread_mutex_unlock(&lst->own_fork);
+		print_state('s', lst);
+		ft_usleep(lst->args->time_to_sleep);
+		print_state('t', lst);
+		if (lst->args->number_time_to_eat)
+		{
+			if (lst->args->number_time_to_eat < lst->nbr_time_eaten)
+			{
+				printf("\noooooooooooooooooooooooooo nbr = %d\n",lst->nbr);
+				break ;
+			}
+		}
 	}
 	return (NULL);
 }
 
 int	main(int argc, char **argv)
 {
-	pthread_t		thread[5];
-	int				i;
+	pthread_t		*thread;
 	t_args			*args;
-	pthread_mutex_t	mutex[5];
 	t_list			*lst;
+	int				i;
 
 	i = 0;
 	lst = NULL;
 	args = set_struct(argc, argv);
-	// printf("\nnumber of argc = %d\n",argc);
-	// printf("\nthe nbr of philo = %d\n",args->nbr_philosophers);
-	// printf("\nthe nbr time to eat = %d\n",args->number_time_to_eat);
-	// printf("\ntime to die  = %d\n",args->time_to_die);
-	// printf("\ntime to die  = %d\n",args->time_to_eat);
-	// printf("\ntime to die  = %d\n",args->time_to_sleep);
 	if (!is_valid_parsing(argc, argv, args))
 	{
 		return (free(args), 0);
 	}
-	// exit(1);
 	while ((unsigned long)i < args->nbr_philosophers)
 	{
-		
-		lst->args = args; //here it sigfault
-		ft_lstadd_back(&lst, ft_lstnew(i + 1, mutex[i]));
-		if (pthread_create(&thread[i], NULL, &sleep_think_eat, ft_lstlast(lst)) != 0)
+		thread = (pthread_t *)malloc(sizeof(pthread_t));
+		ft_lstadd_back(&lst, ft_lstnew(i + 1));
+		ft_lstlast(lst)->args = args;
+		if (pthread_create(thread, NULL, &sleep_think_eat, ft_lstlast(lst)))
 		{
 			printf("there is an error while creating the thread nbr %d\n",i+1);
 			return (1);
 		}
-		pthread_detach(thread[i]);
+		if (pthread_detach(*thread))
+		{
+			printf("there is an error while detaching the thread nbr %d\n",i+1);
+			return (1);
+		}
+		free(thread);
 		i++;
 	}
 	ft_lstlast(lst)->next = lst;
 	i = 0;
 	while (lst)
 	{
-		if (right_now() - lst->last_meal > args->time_to_die)
+		if (right_now() - lst->last_meal >= lst->args->time_to_die)
 		{
-			printf("\n%ld %d died\n", right_now() - lst->last_meal, lst->nbr);
-			return (0);
+			args->printable = 0;
+			printf("\n%ld %d died\n", right_now() - lst->start_simul, lst->nbr);
+			break ;
 		}
+		usleep(200);
 		lst = lst->next;
 	}
-	// while (i < 3)
-	// {
-	// 	// printf("the %d thread begin \n", i);
-	// 	if (pthread_join(thread[i], NULL) != 0)
-	// 	{
-	// 		printf("there is an error while joining the thread nbr %d\n",i+1);
-	// 		return (1);
-	// 	}
-	// 	// printf("the %d thread end \n", i);
-	// 	i++;
-	// }
 	// printf("\n************here is the list***************\n");
 	// print_lst(lst);
+	// exit(0);
+	// here i will free all the alocated data
 	return (0);
 }
