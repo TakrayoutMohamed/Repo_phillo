@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:31:00 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/10 16:48:36 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/11 16:29:09 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,6 +28,7 @@ typedef struct s_args
 	unsigned long	time_to_eat;
 	unsigned long	time_to_sleep;
 	unsigned long	number_time_to_eat;
+	unsigned long	end_simul;
 } t_args;
 
 typedef struct s_list

@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/03 13:12:57 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/03 14:05:54 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/10 22:10:31 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,9 @@ void	ft_lstclear(t_list **lst, void (*del)(void *))
 	t_list	*temp;
 	t_list	*templst;
 
+	temp = (*lst);
+	*lst = (*lst)->next;
+	temp->next = NULL;
 	if (lst && del)
 	{
 		templst = *lst;
