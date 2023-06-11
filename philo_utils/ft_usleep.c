@@ -1,37 +1,30 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_lstnew.c                                        :+:      :+:    :+:   */
+/*   ft_usleep.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/03 13:15:40 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 19:40:37 by mohtakra         ###   ########.fr       */
+/*   Created: 2023/06/11 19:00:22 by mohtakra          #+#    #+#             */
+/*   Updated: 2023/06/11 19:33:46 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "./../libphilo.h"
 
-t_list	*ft_lstnew(int nbr)
+/*sleep a proccess or a thread for some time in milliseconds*/
+void	ft_usleep(unsigned long unbr)
 {
-	t_list			*p;
+	unsigned long	time;
+	unsigned long	start;
 
-	p = (t_list *)malloc(sizeof(t_list));
-	if (!p)
+	time = (unbr * 95) / 100;
+	start = right_now();
+	usleep(time * 1000);
+	while(1)
 	{
-		printf("we could not allocate to p in ft_lstnew()\n");
-		exit(EXIT_FAILURE);
+		if (right_now() - start >= unbr)
+			break ;
+		usleep(50);
 	}
-	if (!p)
-		return (NULL);
-	p->nbr = nbr;
-	if (pthread_mutex_init(&p->own_fork, NULL) != 0)
-	{
-		printf("there is an error while trying to init the mutex nbr %d\n",nbr);
-		exit(EXIT_FAILURE);
-	}
-	p->last_meal = right_now();
-	p->status	= AVAILABLE;
-	p->next = NULL;
-	return (p);
 }

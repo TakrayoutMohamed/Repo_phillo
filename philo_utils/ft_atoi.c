@@ -1,37 +1,37 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_lstnew.c                                        :+:      :+:    :+:   */
+/*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/03 13:15:40 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 19:40:37 by mohtakra         ###   ########.fr       */
+/*   Created: 2023/06/11 18:59:49 by mohtakra          #+#    #+#             */
+/*   Updated: 2023/06/11 19:04:51 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "./../libphilo.h"
 
-t_list	*ft_lstnew(int nbr)
+int	ft_atoi(char *str)
 {
-	t_list			*p;
+	int	negative;
+	int	nbr;
 
-	p = (t_list *)malloc(sizeof(t_list));
-	if (!p)
+	negative = 1;
+	nbr = 0;
+	if (str)
 	{
-		printf("we could not allocate to p in ft_lstnew()\n");
-		exit(EXIT_FAILURE);
+		if (*str == '-' || *str == '+')
+		{
+			if (*str == '-')
+				negative = -1;
+			str++;
+		}
+		while (*str)
+		{
+			nbr = nbr * 10 + *str - 48;
+			str++;
+		}
 	}
-	if (!p)
-		return (NULL);
-	p->nbr = nbr;
-	if (pthread_mutex_init(&p->own_fork, NULL) != 0)
-	{
-		printf("there is an error while trying to init the mutex nbr %d\n",nbr);
-		exit(EXIT_FAILURE);
-	}
-	p->last_meal = right_now();
-	p->status	= AVAILABLE;
-	p->next = NULL;
-	return (p);
+	return (nbr * negative);
 }
