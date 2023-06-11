@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:31:00 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 19:35:30 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/11 21:07:10 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 # include <unistd.h>
 # include <stdio.h>
 # include <stdlib.h>
+# include <stdbool.h>
 # include <sys/time.h>
 # include <pthread.h>
 # define AVAILABLE		1
