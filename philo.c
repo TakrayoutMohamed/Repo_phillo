@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:35:52 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 23:25:12 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/12 22:55:06 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -65,29 +65,24 @@ bool	create_linked_list(t_list **lst, t_args *args)
 
 bool	create_threads(t_list *lst, t_args *args)
 {
-	pthread_t		*thread;
+	pthread_t		thread;
 	unsigned int	i;
 
 	i = 0;
 	while (i < args->nbr_philosophers)
 	{
-		thread = (pthread_t *)malloc(sizeof(pthread_t));
-		if (!thread)
-		{
-			printf("we could not allocate to the thread in main()");
-			return (false);
-		}
-		if (pthread_create(thread, NULL, &eat_sleep_think, lst))
+		lst->start_simul = right_now();
+		lst->last_meal = right_now();
+		if (pthread_create(&thread, NULL, &eat_sleep_think, lst))
 		{
 			printf("ERROR : creation of the new thread %d\n",i + 1);
 			return (false);
 		}
-		if (pthread_detach(*thread))
+		if (pthread_detach(thread))
 		{
 			printf("ERROR : detach the thread %d\n",i + 1);
 			return (false);
 		}
-		free(thread);
 		lst = lst->next;
 		i++;
 	}
@@ -102,23 +97,23 @@ int	main(int argc, char **argv)
 	// atexit(leakss);//8888ddddddd
 	lst = NULL;
 	args = set_mutual_data(argc, argv);
+	if (!args)
+		return (1);
 	if (!is_valid_parsing(argc, argv, args))
 		return (free(args), 1);
 	if (!create_linked_list(&lst, args))
-		return (free(args), 1);
+		return (ft_lstclear(&lst, del), free(args), 1);
 	if (!create_threads(lst, args))
 		return (free(args), ft_lstclear(&lst, del), 1);
-	while (lst)
+	while (args->end_simul > 0)
 	{
 		if (right_now() - lst->last_meal > args->time_to_die)
 		{
-			printf("\n%ld %d died\n", right_now() - lst->last_meal, lst->nbr);
-			break ;
+			printf("\n%ld %d died\n", right_now() - lst->start_simul, lst->nbr);
+			return (0);
 		}
-		if (args->end_simul <= 0)
-			break ;
 		lst = lst->next;
-		usleep(10);
+		usleep(100);
 	}
 	// printf("\n************here is the list***************\n");
 	// print_lst(lst);

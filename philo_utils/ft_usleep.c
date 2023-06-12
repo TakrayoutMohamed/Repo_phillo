@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/11 19:00:22 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 19:33:46 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/12 23:37:50 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,10 +21,8 @@ void	ft_usleep(unsigned long unbr)
 	time = (unbr * 95) / 100;
 	start = right_now();
 	usleep(time * 1000);
-	while(1)
+	while(right_now() - start < unbr)
 	{
-		if (right_now() - start >= unbr)
-			break ;
 		usleep(50);
 	}
 }

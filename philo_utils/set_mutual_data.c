@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/11 18:58:57 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 19:35:47 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/12 19:09:17 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ t_args	*set_mutual_data(int argc, char **argv)
 	if (!args)
 	{
 		printf("we could not allocate to the args in set struct");
-		exit(EXIT_FAILURE);
+		return (NULL);
 	}
 	args->nbr_philosophers = ft_atoi(argv[1]);
 	args->time_to_die = ft_atoi(argv[2]);
