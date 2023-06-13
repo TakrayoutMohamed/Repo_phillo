@@ -6,7 +6,7 @@
 #    By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/06/02 18:06:34 by mohtakra          #+#    #+#              #
-#    Updated: 2023/06/11 19:39:17 by mohtakra         ###   ########.fr        #
+#    Updated: 2023/06/13 23:19:40 by mohtakra         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -29,8 +29,6 @@ SRC = philo.c ./list/ft_lstadd_back.c ./list/ft_lstadd_front.c\
 	$(PHILOUTILS)print_state.c $(PHILOUTILS)right_now.c\
 	$(PHILOUTILS)set_mutual_data.c
 
-
-
 OBJ = $(SRC:.c=.o)
 
 all: $(NAME)
@@ -39,7 +37,7 @@ $(NAME): $(OBJ)
 		@$(CC) -o $@ $(SRC:.c=.o)
 		@echo "the files has ben archived successfully"
 
-%.o: %.c ./libphilo.h
+%.o: %.c ./libstructs.h ./libphilo.h ./parsing/libparsing.h
 		@$(CC) $(CFLAGS) -o $@ -c $<
 		@echo "the file $@ has been created from $<"
 		

@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/03 13:15:40 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/11 23:24:24 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/13 23:23:41 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,19 +18,13 @@ t_list	*ft_lstnew(int nbr)
 
 	p = (t_list *)malloc(sizeof(t_list));
 	if (!p)
-	{
-		printf("we could not allocate to p in ft_lstnew()\n");
-		return (NULL);
-	}
-	if (!p)
-		return (NULL);
+		return (printf("ERROR : allocation new lst in ft_lstnew()\n"), NULL);
 	p->nbr = nbr;
 	if (pthread_mutex_init(&p->own_fork, NULL))
 	{
-		printf("there is an error while trying to init the mutex nbr %d\n",nbr);
+		printf("ERROR : initialisation of mutex in ft_lstnew() nbr %d\n", nbr);
 		return (NULL);
 	}
-	p->status	= AVAILABLE;
 	p->next = NULL;
 	return (p);
 }
