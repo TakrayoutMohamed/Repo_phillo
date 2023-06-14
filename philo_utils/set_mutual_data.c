@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/11 18:58:57 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/14 21:51:42 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/14 23:08:21 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,6 @@ t_args	*set_mutual_data(int argc, char **argv)
 	args->time_to_eat = ft_atoi(argv[3]);
 	args->time_to_sleep = ft_atoi(argv[4]);
 	args->end_simul = args->nbr_philosophers;
-	args->is_dead = false;
 	if (argc == 6)
 		args->number_time_to_eat = ft_atoi(argv[5]);
 	else
