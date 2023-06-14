@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/01 16:35:52 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/13 23:27:38 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/14 22:08:26 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -65,7 +65,6 @@ bool	create_linked_list(t_list **lst, t_args *args)
 
 bool	create_threads(t_list *lst, t_args *args)
 {
-	pthread_t		thread;
 	int				i;
 
 	i = 0;
@@ -73,18 +72,45 @@ bool	create_threads(t_list *lst, t_args *args)
 	{
 		lst->start_simul = right_now();
 		lst->last_meal = right_now();
-		if (pthread_create(&thread, NULL, &eat_sleep_think, lst))
+		if (pthread_create(&lst->thread, NULL, &eat_sleep_think, lst))
 		{
-			printf("ERROR : creation of the new thread %d\n", i + 1);
+			printf("ERROR : creation new thread create_threads() %d\n", i + 1);
 			return (false);
 		}
-		if (pthread_detach(thread))
+		// if (pthread_join(lst->thread, NULL))
+		// {
+		// 	printf("ERROR : creation of the new thread %d\n", i + 1);
+		// 	return (false);
+		// }
+		if (pthread_detach(lst->thread))
 		{
 			printf("ERROR : detach the thread %d\n", i + 1);
 			return (false);
 		}
 		lst = lst->next;
 		i++;
+	}
+	return (true);
+}
+
+bool	join_destroy_threads(t_list *lst, t_args *args)
+{
+	// pthread_t		thread;
+	int				i;
+
+	i = 0;
+	while (i < args->nbr_philosophers)
+	{
+		if (pthread_join(lst->thread, NULL))
+		{
+			printf("ERROR : creation of the new thread %d\n", i + 1);
+			return (false);
+		}
+		if (pthread_detach(lst->thread))
+		{
+			printf("ERROR : detach the thread %d\n", i + 1);
+			return (false);
+		}
 	}
 	return (true);
 }
@@ -98,6 +124,7 @@ int	main(int argc, char **argv)
 {
 	t_args	*args;
 	t_list	*lst;
+	unsigned long help_last_meat;
 
 	// atexit(leakss);//8888ddddddd
 	lst = NULL;
@@ -112,12 +139,20 @@ int	main(int argc, char **argv)
 		return (free(args), ft_lstclear(&lst, del), 1);
 	while (args->end_simul > 0)
 	{
-		if (right_now() - lst->last_meal > (unsigned long) args->time_to_die)
-			return (print_state('d', lst, right_now() - lst->last_meal), 0);
+		pthread_mutex_lock(&lst->args->lock_time);
+		help_last_meat = right_now() - lst->last_meal;
+		pthread_mutex_unlock(&lst->args->lock_time);
+		if (help_last_meat > (unsigned long) args->time_to_die)
+		{
+			print_state('d', lst, right_now() - lst->last_meal);
+			break;
+		}
 		lst = lst->next;
 		usleep(10);
 	}
-	return (print_state('k', lst, right_now() - lst->last_meal), 0);
+	if (args->end_simul <= 0)
+		print_state('k', lst, right_now() - lst->last_meal);
+	return (0);
 }
 
 // printf("\n************here is the list***************\n");

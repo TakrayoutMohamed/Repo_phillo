@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/11 18:57:07 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/13 23:27:08 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/14 22:00:43 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,19 +21,23 @@ static bool	eat(t_list *lst)
 		return (printf("\nERROR : locking the mutex 2 eat()\n"), false);
 	print_state('f', lst, right_now() - lst->start_simul);
 	print_state('e', lst, right_now() - lst->start_simul);
+	pthread_mutex_lock(&lst->args->lock_time);
 	lst->last_meal = right_now();
+	pthread_mutex_unlock(&lst->args->lock_time);
 	ft_usleep(lst->args->time_to_eat);
 	if (pthread_mutex_unlock(&lst->next->own_fork) != 0)
 		return (printf("\nERROR : unlocking the mutex 2 eat()\n"), false);
 	if (pthread_mutex_unlock(&lst->own_fork) != 0)
 		return (printf("\nERROR : unlocking the mutex 1 eat()\n"), false);
+	// if (lst->args->is_dead)
+	// 	return (false);
 	return (true);
 }
 
 static void	sleep_think(t_list *lst)
 {
-	print_state('s', lst, right_now() - lst->start_simul);
 	ft_usleep(lst->args->time_to_sleep);
+	print_state('s', lst, right_now() - lst->start_simul);
 	print_state('t', lst, right_now() - lst->start_simul);
 }
 
@@ -44,7 +48,9 @@ static bool	eaten_enough(t_list *lst)
 {
 	if (lst->args->number_time_to_eat >= lst->nbr_time_eaten)
 		return (true);
+	pthread_mutex_lock(&lst->args->lock_decrement);
 	(lst->args->end_simul)--;
+	pthread_mutex_unlock(&lst->args->lock_decrement);
 	printf("\noooooooooooooooooooooooooo end simu = %d nbr = %d\n", lst->args->end_simul, lst->nbr);
 	//at end need to remove the above line
 	return (true);
@@ -60,8 +66,10 @@ void	*eat_sleep_think(void *args)
 	while (1)
 	{
 		if (!eat(lst))
-			return (NULL);
-		lst->nbr_time_eaten = lst->nbr_time_eaten + 1;
+			return (printf("here is the end of the thread nbr = %d\n",lst->nbr), NULL);
+		pthread_mutex_lock(&lst->args->lock_increment);
+		lst->nbr_time_eaten++;
+		pthread_mutex_unlock(&lst->args->lock_increment);
 		sleep_think(lst);
 		if (lst->args->number_time_to_eat)
 		{

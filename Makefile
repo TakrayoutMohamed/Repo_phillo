@@ -6,14 +6,13 @@
 #    By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/06/02 18:06:34 by mohtakra          #+#    #+#              #
-#    Updated: 2023/06/13 23:19:40 by mohtakra         ###   ########.fr        #
+#    Updated: 2023/06/14 19:28:03 by mohtakra         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME=philo
 CC=cc
-LIB=LIB.a
-CFLAGS=-Wall -Wextra -Werror -pthread
+CFLAGS=-Wall -Wextra -Werror -pthread -fsanitize=thread -g -O1
 RM=rm -f
 PARSINGPATH=./parsing/utils/
 PHILOUTILS=./philo_utils/
@@ -34,7 +33,7 @@ OBJ = $(SRC:.c=.o)
 all: $(NAME)
 
 $(NAME): $(OBJ)
-		@$(CC) -o $@ $(SRC:.c=.o)
+		@$(CC) -fsanitize=thread -o $@ $(SRC:.c=.o)
 		@echo "the files has ben archived successfully"
 
 %.o: %.c ./libstructs.h ./libphilo.h ./parsing/libparsing.h

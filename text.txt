@@ -1,4510 +1,1093 @@
+0 4 has taken a fork
+0 4 has taken a fork
+0 4 is eating
+0 8 has taken a fork
 0 2 has taken a fork
-0 2 has taken next fork
+0 2 has taken a fork
 0 2 is eating
 0 6 has taken a fork
-0 6 has taken next fork
+0 6 has taken a fork
 0 6 is eating
 0 8 has taken a fork
-0 8 has taken next fork
-0 8 is eating
 0 10 has taken a fork
-0 10 has taken next fork
+0 10 has taken a fork
 0 10 is eating
-0 4 has taken a fork
-0 4 has taken next fork
-0 4 is eating
+0 8 is eating
 0 12 has taken a fork
-0 12 has taken next fork
+0 12 has taken a fork
 0 12 is eating
 0 14 has taken a fork
-0 14 has taken next fork
+0 14 has taken a fork
 0 14 is eating
+0 1 has taken a fork
 0 16 has taken a fork
-0 16 has taken next fork
+0 16 has taken a fork
 0 16 is eating
 0 18 has taken a fork
-0 18 has taken next fork
+0 18 has taken a fork
 0 18 is eating
-0 1 has taken a fork
 0 20 has taken a fork
-0 20 has taken next fork
+0 20 has taken a fork
 0 20 is eating
 0 22 has taken a fork
-0 22 has taken next fork
+0 22 has taken a fork
 0 22 is eating
 0 24 has taken a fork
-0 24 has taken next fork
+0 24 has taken a fork
 0 24 is eating
 0 26 has taken a fork
-0 26 has taken next fork
+0 26 has taken a fork
 0 26 is eating
 0 28 has taken a fork
-0 28 has taken next fork
+0 28 has taken a fork
 0 28 is eating
 0 30 has taken a fork
-0 30 has taken next fork
+0 30 has taken a fork
 0 30 is eating
 0 32 has taken a fork
-0 32 has taken next fork
+0 32 has taken a fork
 0 32 is eating
 0 34 has taken a fork
-0 34 has taken next fork
+0 34 has taken a fork
 0 34 is eating
 0 36 has taken a fork
-0 36 has taken next fork
+0 36 has taken a fork
 0 36 is eating
 0 38 has taken a fork
-0 38 has taken next fork
+0 38 has taken a fork
 0 38 is eating
-0 40 has taken a fork
-0 40 has taken next fork
-0 40 is eating
+1 40 has taken a fork
+1 40 has taken a fork
+1 40 is eating
 0 42 has taken a fork
-0 42 has taken next fork
+0 42 has taken a fork
 0 42 is eating
 0 44 has taken a fork
-0 44 has taken next fork
+0 44 has taken a fork
 0 44 is eating
 0 46 has taken a fork
-0 46 has taken next fork
+0 46 has taken a fork
 0 46 is eating
 0 48 has taken a fork
-0 48 has taken next fork
+0 48 has taken a fork
 0 48 is eating
 0 50 has taken a fork
-0 50 has taken next fork
+0 50 has taken a fork
 0 50 is eating
 0 52 has taken a fork
-0 52 has taken next fork
+0 52 has taken a fork
 0 52 is eating
 0 54 has taken a fork
-0 54 has taken next fork
+0 54 has taken a fork
 0 54 is eating
 0 56 has taken a fork
-0 56 has taken next fork
+0 56 has taken a fork
 0 56 is eating
 0 58 has taken a fork
-0 58 has taken next fork
+0 58 has taken a fork
 0 58 is eating
 0 60 has taken a fork
-0 60 has taken next fork
+0 60 has taken a fork
 0 60 is eating
 0 62 has taken a fork
-0 62 has taken next fork
+0 62 has taken a fork
 0 62 is eating
 0 64 has taken a fork
-0 64 has taken next fork
+0 64 has taken a fork
 0 64 is eating
 0 66 has taken a fork
-0 66 has taken next fork
+0 66 has taken a fork
 0 66 is eating
 0 68 has taken a fork
-0 68 has taken next fork
+0 68 has taken a fork
 0 68 is eating
 0 70 has taken a fork
-0 70 has taken next fork
+0 70 has taken a fork
 0 70 is eating
 0 72 has taken a fork
-0 72 has taken next fork
+0 72 has taken a fork
 0 72 is eating
 0 74 has taken a fork
-0 74 has taken next fork
+0 74 has taken a fork
 0 74 is eating
 0 76 has taken a fork
-0 76 has taken next fork
+0 76 has taken a fork
 0 76 is eating
 0 78 has taken a fork
-0 78 has taken next fork
+0 78 has taken a fork
 0 78 is eating
 0 80 has taken a fork
-0 80 has taken next fork
+0 80 has taken a fork
 0 80 is eating
 0 82 has taken a fork
-0 82 has taken next fork
+0 82 has taken a fork
 0 82 is eating
 0 84 has taken a fork
-0 84 has taken next fork
+0 84 has taken a fork
 0 84 is eating
 0 86 has taken a fork
-0 86 has taken next fork
+0 86 has taken a fork
 0 86 is eating
 0 88 has taken a fork
-0 88 has taken next fork
+0 88 has taken a fork
 0 88 is eating
 0 90 has taken a fork
-0 90 has taken next fork
+0 90 has taken a fork
 0 90 is eating
 0 92 has taken a fork
-0 92 has taken next fork
+0 92 has taken a fork
 0 92 is eating
 0 94 has taken a fork
-0 94 has taken next fork
+0 94 has taken a fork
 0 94 is eating
 0 96 has taken a fork
-0 96 has taken next fork
+0 96 has taken a fork
 0 96 is eating
 0 98 has taken a fork
-0 98 has taken next fork
+0 98 has taken a fork
 0 98 is eating
 0 100 has taken a fork
-0 100 has taken next fork
+0 100 has taken a fork
 0 100 is eating
 0 102 has taken a fork
-0 102 has taken next fork
+0 102 has taken a fork
 0 102 is eating
 0 104 has taken a fork
-0 104 has taken next fork
+0 104 has taken a fork
 0 104 is eating
-0 106 has taken a fork
-0 106 has taken next fork
-0 106 is eating
-0 108 has taken a fork
-0 108 has taken next fork
-0 108 is eating
-0 110 has taken a fork
-0 110 has taken next fork
-0 110 is eating
-0 112 has taken a fork
-0 112 has taken next fork
-0 112 is eating
-0 114 has taken a fork
-0 114 has taken next fork
-0 114 is eating
-0 116 has taken a fork
-0 116 has taken next fork
-0 116 is eating
+1 106 has taken a fork
+1 106 has taken a fork
+1 106 is eating
+1 108 has taken a fork
+1 108 has taken a fork
+1 108 is eating
+1 110 has taken a fork
+1 110 has taken a fork
+1 110 is eating
+1 112 has taken a fork
+1 112 has taken a fork
+1 112 is eating
+1 114 has taken a fork
+1 114 has taken a fork
+1 114 is eating
+1 116 has taken a fork
+1 116 has taken a fork
+1 116 is eating
 0 118 has taken a fork
-0 118 has taken next fork
+0 118 has taken a fork
 0 118 is eating
 0 120 has taken a fork
-0 120 has taken next fork
+0 120 has taken a fork
 0 120 is eating
 0 122 has taken a fork
-0 122 has taken next fork
+0 122 has taken a fork
 0 122 is eating
 0 124 has taken a fork
-0 124 has taken next fork
+0 124 has taken a fork
 0 124 is eating
-1 126 has taken a fork
-1 126 has taken next fork
-1 126 is eating
+0 126 has taken a fork
+0 126 has taken a fork
+0 126 is eating
 0 128 has taken a fork
-0 128 has taken next fork
+0 128 has taken a fork
 0 128 is eating
 0 130 has taken a fork
-0 130 has taken next fork
+0 130 has taken a fork
 0 130 is eating
 0 132 has taken a fork
-0 132 has taken next fork
+0 132 has taken a fork
 0 132 is eating
 0 134 has taken a fork
-0 134 has taken next fork
+0 134 has taken a fork
 0 134 is eating
 0 136 has taken a fork
-0 136 has taken next fork
+0 136 has taken a fork
 0 136 is eating
 0 138 has taken a fork
-0 138 has taken next fork
+0 138 has taken a fork
 0 138 is eating
-0 140 has taken a fork
-0 140 has taken next fork
-0 140 is eating
-0 142 has taken a fork
-0 142 has taken next fork
-0 142 is eating
-0 144 has taken a fork
-0 144 has taken next fork
-0 144 is eating
 0 146 has taken a fork
-0 146 has taken next fork
+0 146 has taken a fork
 0 146 is eating
 0 148 has taken a fork
-0 148 has taken next fork
+0 148 has taken a fork
 0 148 is eating
 0 150 has taken a fork
-0 150 has taken next fork
+0 150 has taken a fork
 0 150 is eating
 0 152 has taken a fork
-0 152 has taken next fork
+0 152 has taken a fork
 0 152 is eating
 0 154 has taken a fork
-0 154 has taken next fork
+0 154 has taken a fork
 0 154 is eating
 0 156 has taken a fork
-0 156 has taken next fork
+0 156 has taken a fork
 0 156 is eating
 0 158 has taken a fork
-0 158 has taken next fork
+0 158 has taken a fork
 0 158 is eating
 0 160 has taken a fork
-0 160 has taken next fork
+0 160 has taken a fork
 0 160 is eating
+0 140 has taken a fork
+0 140 has taken a fork
+0 140 is eating
 0 162 has taken a fork
-0 162 has taken next fork
+0 162 has taken a fork
 0 162 is eating
+0 142 has taken a fork
+0 142 has taken a fork
+0 142 is eating
+0 144 has taken a fork
+0 144 has taken a fork
+0 144 is eating
 0 164 has taken a fork
-0 164 has taken next fork
+0 164 has taken a fork
 0 164 is eating
 0 166 has taken a fork
-0 166 has taken next fork
+0 166 has taken a fork
 0 166 is eating
 0 168 has taken a fork
-0 168 has taken next fork
+0 168 has taken a fork
 0 168 is eating
 0 170 has taken a fork
-0 170 has taken next fork
+0 170 has taken a fork
 0 170 is eating
 0 172 has taken a fork
-0 172 has taken next fork
+0 172 has taken a fork
 0 172 is eating
 0 174 has taken a fork
-0 174 has taken next fork
+0 174 has taken a fork
 0 174 is eating
 0 176 has taken a fork
-0 176 has taken next fork
+0 176 has taken a fork
 0 176 is eating
 0 178 has taken a fork
-0 178 has taken next fork
+0 178 has taken a fork
 0 178 is eating
 0 180 has taken a fork
-0 180 has taken next fork
+0 180 has taken a fork
 0 180 is eating
 0 182 has taken a fork
-0 182 has taken next fork
+0 182 has taken a fork
 0 182 is eating
 0 184 has taken a fork
-0 184 has taken next fork
+0 184 has taken a fork
 0 184 is eating
 0 186 has taken a fork
-0 186 has taken next fork
+0 186 has taken a fork
 0 186 is eating
 0 188 has taken a fork
-0 188 has taken next fork
+0 188 has taken a fork
 0 188 is eating
 0 190 has taken a fork
-0 190 has taken next fork
+0 190 has taken a fork
 0 190 is eating
 0 192 has taken a fork
-0 192 has taken next fork
+0 192 has taken a fork
 0 192 is eating
 0 194 has taken a fork
-0 194 has taken next fork
+0 194 has taken a fork
 0 194 is eating
 0 196 has taken a fork
-0 196 has taken next fork
+0 196 has taken a fork
 0 196 is eating
 0 198 has taken a fork
-0 198 has taken next fork
+0 198 has taken a fork
 0 198 is eating
-0 200 has taken a fork
-200 16 is sleeping
-200 12 is sleeping
-200 8 is sleeping
-200 46 is sleeping
-200 56 is sleeping
-200 13 has taken a fork
-200 44 is sleeping
-200 17 has taken a fork
-200 59 has taken a fork
-200 18 is sleeping
-200 61 has taken a fork
-200 32 is sleeping
-200 22 is sleeping
-200 60 is sleeping
-200 28 is sleeping
-200 10 is sleeping
-200 9 has taken a fork
-200 52 is sleeping
-200 9 has taken next fork
-200 27 has taken a fork
-200 2 is sleeping
-200 27 has taken next fork
-200 27 is eating
-200 24 is sleeping
-200 34 is sleeping
-200 36 is sleeping
-200 40 is sleeping
-200 6 is sleeping
-200 64 is sleeping
-200 47 has taken a fork
-200 4 is sleeping
-200 48 is sleeping
-200 58 is sleeping
-200 47 has taken next fork
-200 47 is eating
-200 42 is sleeping
-200 26 is sleeping
-200 57 has taken a fork
-200 57 has taken next fork
-200 57 is eating
-200 50 is sleeping
-200 20 is sleeping
-200 62 is sleeping
-200 39 has taken a fork
-200 39 has taken next fork
-200 38 is sleeping
-200 45 has taken a fork
-200 45 has taken next fork
-200 45 is eating
-200 30 is sleeping
-200 39 is eating
-200 19 has taken a fork
-200 19 has taken next fork
-200 19 is eating
-200 17 has taken next fork
-200 23 has taken a fork
-200 23 has taken next fork
-200 23 is eating
-200 17 is eating
-200 29 has taken a fork
-200 3 has taken a fork
-200 29 has taken next fork
-200 29 is eating
-200 1 has taken next fork
-200 1 is eating
-200 3 has taken next fork
-200 9 is eating
-200 3 is eating
-200 53 has taken a fork
-200 53 has taken next fork
-200 25 has taken a fork
-200 25 has taken next fork
-200 25 is eating
-200 53 is eating
-200 35 has taken a fork
-200 35 has taken next fork
-200 35 is eating
-200 41 has taken a fork
-200 41 has taken next fork
-200 5 has taken a fork
-200 5 has taken next fork
-200 49 has taken a fork
-200 5 is eating
-200 49 has taken next fork
-200 49 is eating
-200 43 has taken a fork
-200 43 has taken next fork
-200 15 has taken a fork
-200 15 has taken next fork
-200 15 is eating
-200 37 has taken a fork
-200 7 has taken a fork
-200 37 has taken next fork
-200 7 has taken next fork
-200 37 is eating
-200 7 is eating
-200 43 is eating
-200 13 has taken next fork
-200 13 is eating
-200 31 has taken a fork
-200 51 has taken a fork
-200 31 has taken next fork
-200 31 is eating
-200 51 has taken next fork
-200 51 is eating
-200 14 is sleeping
-200 54 is sleeping
-200 61 has taken next fork
-200 61 is eating
-200 63 has taken a fork
-200 63 has taken next fork
-200 63 is eating
-200 59 has taken next fork
-200 59 is eating
-200 11 has taken a fork
-200 11 has taken next fork
-200 11 is eating
-200 65 has taken a fork
-200 41 is eating
-200 21 has taken a fork
-200 21 has taken next fork
-200 21 is eating
-200 33 has taken a fork
-200 33 has taken next fork
-200 33 is eating
-200 55 has taken a fork
-200 55 has taken next fork
-200 55 is eating
-200 70 is sleeping
-200 98 is sleeping
-200 74 is sleeping
-200 108 is sleeping
-200 118 is sleeping
-200 120 is sleeping
-200 66 is sleeping
-200 106 is sleeping
-200 112 is sleeping
-200 94 is sleeping
-200 122 is sleeping
-200 72 is sleeping
-200 96 is sleeping
-200 86 is sleeping
-200 68 is sleeping
-200 90 is sleeping
-200 92 is sleeping
-200 75 has taken a fork
-200 71 has taken a fork
-200 71 has taken next fork
-200 71 is eating
-200 102 is sleeping
-200 109 has taken a fork
-200 119 has taken a fork
-200 119 has taken next fork
-200 119 is eating
-200 99 has taken a fork
-200 121 has taken a fork
-200 121 has taken next fork
-200 121 is eating
-200 67 has taken a fork
-200 67 has taken next fork
-200 82 is sleeping
-200 67 is eating
-200 107 has taken a fork
-200 95 has taken a fork
-200 107 has taken next fork
-200 107 is eating
-200 95 has taken next fork
-200 95 is eating
-200 113 has taken a fork
-200 76 is sleeping
-200 114 is sleeping
-200 80 is sleeping
-200 123 has taken a fork
-200 124 is sleeping
-200 123 has taken next fork
-200 123 is eating
-200 73 has taken a fork
-200 73 has taken next fork
-200 73 is eating
-200 100 is sleeping
-200 78 is sleeping
-200 110 is sleeping
-200 88 is sleeping
-200 84 is sleeping
-200 97 has taken a fork
-200 97 has taken next fork
-200 97 is eating
-200 87 has taken a fork
-200 87 has taken next fork
-200 87 is eating
-200 69 has taken a fork
-200 69 has taken next fork
-200 69 is eating
-200 91 has taken a fork
-200 93 has taken a fork
-200 93 has taken next fork
-200 93 is eating
-200 103 has taken a fork
-200 103 has taken next fork
-200 117 has taken a fork
-200 104 is sleeping
-200 117 has taken next fork
-200 117 is eating
-200 103 is eating
-200 116 is sleeping
-200 83 has taken a fork
-200 83 has taken next fork
-200 83 is eating
-201 65 has taken next fork
-201 65 is eating
-200 77 has taken a fork
-200 77 has taken next fork
-200 75 has taken next fork
-200 75 is eating
-200 113 has taken next fork
-200 113 is eating
-200 77 is eating
-200 125 has taken a fork
-200 115 has taken a fork
-200 115 has taken next fork
-200 115 is eating
-200 101 has taken a fork
-200 99 has taken next fork
-200 79 has taken a fork
-200 111 has taken a fork
-200 109 has taken next fork
-200 109 is eating
-200 85 has taken a fork
-200 91 has taken next fork
-200 85 has taken next fork
-200 85 is eating
-200 91 is eating
-200 81 has taken a fork
-200 101 has taken next fork
-200 101 is eating
-200 99 is eating
-200 81 has taken next fork
-200 81 is eating
-200 111 has taken next fork
-200 111 is eating
-200 79 has taken next fork
-200 79 is eating
-200 89 has taken a fork
-200 89 has taken next fork
-200 89 is eating
-200 105 has taken a fork
-200 105 has taken next fork
-200 105 is eating
-200 138 is sleeping
-200 140 is sleeping
-200 178 is sleeping
-200 142 is sleeping
-200 158 is sleeping
-200 136 is sleeping
-200 130 is sleeping
-200 180 is sleeping
-200 150 is sleeping
-200 186 is sleeping
-200 174 is sleeping
-200 168 is sleeping
-200 146 is sleeping
-200 164 is sleeping
-200 176 is sleeping
-200 190 is sleeping
-200 182 is sleeping
-200 188 is sleeping
-200 194 is sleeping
-200 196 is sleeping
-200 172 is sleeping
-200 170 is sleeping
-200 152 is sleeping
-200 156 is sleeping
-200 198 is sleeping
-201 126 is sleeping
-200 160 is sleeping
-200 144 is sleeping
-200 166 is sleeping
-200 134 is sleeping
-200 132 is sleeping
-200 139 has taken a fork
-200 139 has taken next fork
-200 141 has taken a fork
-200 139 is eating
-200 151 has taken a fork
-200 151 has taken next fork
-200 141 has taken next fork
-200 141 is eating
-200 143 has taken a fork
-200 159 has taken a fork
-200 131 has taken a fork
-200 159 has taken next fork
-200 159 is eating
-200 131 has taken next fork
-200 181 has taken a fork
-200 187 has taken a fork
-200 181 has taken next fork
-200 187 has taken next fork
-200 181 is eating
-200 187 is eating
-200 175 has taken a fork
-200 175 has taken next fork
-200 175 is eating
-200 165 has taken a fork
-200 165 has taken next fork
-200 191 has taken a fork
-200 191 has taken next fork
-200 191 is eating
-200 177 has taken a fork
-200 177 has taken next fork
-200 177 is eating
-200 183 has taken a fork
-200 165 is eating
-200 183 has taken next fork
-200 183 is eating
-200 197 has taken a fork
-200 195 has taken a fork
-200 195 has taken next fork
-200 171 has taken a fork
-200 195 is eating
-200 171 has taken next fork
-200 171 is eating
-200 127 has taken a fork
-200 153 has taken a fork
-200 157 has taken a fork
-200 153 has taken next fork
-200 157 has taken next fork
-200 153 is eating
-200 127 has taken next fork
-200 127 is eating
-200 157 is eating
-200 199 has taken a fork
-200 161 has taken a fork
-200 145 has taken a fork
-200 145 has taken next fork
-200 193 has taken a fork
-200 163 has taken a fork
-200 193 has taken next fork
-200 193 is eating
-200 155 has taken a fork
-200 155 has taken next fork
-200 155 is eating
-200 145 is eating
-200 129 has taken a fork
-200 129 has taken next fork
-200 163 has taken next fork
-200 185 has taken a fork
-200 163 is eating
-200 185 has taken next fork
-200 185 is eating
-200 133 has taken a fork
-200 133 has taken next fork
-200 135 has taken a fork
-200 154 is sleeping
-200 128 is sleeping
-200 184 is sleeping
-200 179 has taken a fork
-200 179 has taken next fork
-200 151 is eating
-200 143 has taken next fork
-200 143 is eating
-200 169 has taken a fork
-200 169 has taken next fork
-200 131 is eating
-200 189 has taken a fork
-200 189 has taken next fork
-200 197 has taken next fork
-200 197 is eating
-200 147 has taken a fork
-200 147 has taken next fork
-200 147 is eating
-200 169 is eating
-200 173 has taken a fork
-200 173 has taken next fork
-200 173 is eating
-200 189 is eating
-201 125 has taken next fork
-201 125 is eating
-200 129 is eating
-200 149 has taken a fork
-200 149 has taken next fork
-200 149 is eating
-200 167 has taken a fork
-200 167 has taken next fork
-200 162 is sleeping
-200 167 is eating
-200 161 has taken next fork
-200 161 is eating
-200 192 is sleeping
-200 148 is sleeping
-200 133 is eating
-200 135 has taken next fork
-200 137 has taken a fork
-200 137 has taken next fork
-200 137 is eating
-200 135 is eating
-200 179 is eating
-400 41 is sleeping
-400 4 is thinking
-400 62 is thinking
-400 7 is sleeping
-400 23 is sleeping
-400 31 is sleeping
-400 12 is thinking
-400 15 is sleeping
-400 49 is sleeping
-400 9 is sleeping
-400 56 is thinking
-400 32 is thinking
-400 32 has taken a fork
-400 51 is sleeping
-400 14 is thinking
-400 26 is thinking
-400 13 is sleeping
-400 3 is sleeping
-400 25 is sleeping
-400 55 is sleeping
-400 14 has taken a fork
-400 14 has taken next fork
-400 14 is eating
-400 28 is thinking
-400 8 is thinking
-400 8 has taken a fork
-400 8 has taken next fork
-400 8 is eating
-400 21 is sleeping
-400 43 is sleeping
-400 2 is thinking
-400 29 is sleeping
-400 61 is sleeping
-400 39 is sleeping
-400 22 is thinking
-400 46 is thinking
-400 22 has taken a fork
-400 22 has taken next fork
-400 22 is eating
-400 60 is thinking
-400 33 is sleeping
-400 63 is sleeping
-400 47 is sleeping
-400 37 is sleeping
-400 10 is thinking
-400 10 has taken a fork
-400 44 is thinking
-400 44 has taken a fork
-400 10 has taken next fork
-400 10 is eating
-400 40 is thinking
-400 40 has taken a fork
-400 40 has taken next fork
-400 40 is eating
-400 53 is sleeping
-400 48 is thinking
-400 48 has taken a fork
-400 48 has taken next fork
-400 48 is eating
-400 36 is thinking
-400 45 is sleeping
-400 35 is sleeping
-400 27 is sleeping
-400 59 is sleeping
-400 26 has taken a fork
-400 26 has taken next fork
-400 26 is eating
-400 57 is sleeping
-400 56 has taken a fork
-400 24 is thinking
-400 56 has taken next fork
-400 56 is eating
-400 24 has taken a fork
-400 19 is sleeping
-400 62 has taken a fork
-400 62 has taken next fork
-400 62 is eating
-400 32 has taken next fork
-400 12 has taken a fork
-400 32 is eating
-400 12 has taken next fork
-400 12 is eating
-400 11 is sleeping
-400 36 has taken a fork
-400 36 has taken next fork
-400 36 is eating
-400 46 has taken a fork
-400 46 has taken next fork
-400 46 is eating
-400 44 has taken next fork
-400 44 is eating
-400 28 has taken a fork
-400 28 has taken next fork
-400 28 is eating
-400 60 has taken a fork
-400 60 has taken next fork
-400 60 is eating
-400 2 has taken a fork
-400 2 has taken next fork
-400 2 is eating
-398 200 has taken next fork
-398 200 is eating
-400 20 is thinking
-400 20 has taken a fork
-400 20 has taken next fork
-400 20 is eating
-400 52 is thinking
-400 52 has taken a fork
-400 52 has taken next fork
-400 52 is eating
-400 5 is sleeping
-400 30 is thinking
-400 30 has taken a fork
-400 30 has taken next fork
-400 30 is eating
-400 18 is thinking
-400 18 has taken a fork
-400 18 has taken next fork
-400 64 is thinking
-400 18 is eating
-400 17 is sleeping
-400 64 has taken a fork
-400 50 is thinking
-400 50 has taken a fork
-400 50 has taken next fork
-400 50 is eating
-400 16 is thinking
-400 16 has taken a fork
-400 16 has taken next fork
-400 16 is eating
-400 4 has taken a fork
-400 4 has taken next fork
-400 4 is eating
-400 54 is thinking
-400 54 has taken a fork
-400 54 has taken next fork
-400 54 is eating
-400 6 is thinking
-400 42 is thinking
-400 42 has taken a fork
-400 42 has taken next fork
-400 42 is eating
-400 34 is thinking
-400 34 has taken a fork
-400 34 has taken next fork
-400 34 is eating
-400 38 is thinking
-400 38 has taken a fork
-400 38 has taken next fork
-400 38 is eating
-400 1 is sleeping
-400 58 is thinking
-400 58 has taken a fork
-400 58 has taken next fork
-400 58 is eating
-400 6 has taken a fork
-400 6 has taken next fork
-400 6 is eating
-400 24 has taken next fork
-400 24 is eating
-400 116 is thinking
-400 74 is thinking
-400 69 is sleeping
-400 117 is sleeping
-400 114 is thinking
-400 67 is sleeping
-400 103 is sleeping
-400 72 is thinking
-400 76 is thinking
-401 65 is sleeping
-400 99 is sleeping
-400 124 is thinking
-400 102 is thinking
-400 120 is thinking
-400 109 is sleeping
-400 105 is sleeping
-400 78 is thinking
-400 75 is sleeping
-400 84 is thinking
-400 106 is thinking
-400 106 has taken a fork
-400 68 is thinking
-400 68 has taken a fork
-400 68 has taken next fork
-400 113 is sleeping
-400 70 is thinking
-400 70 has taken a fork
-400 70 has taken next fork
-400 77 is sleeping
-400 70 is eating
-400 118 is thinking
-400 118 has taken a fork
-400 81 is sleeping
-400 89 is sleeping
-400 122 is thinking
-400 121 is sleeping
-400 111 is sleeping
-400 119 is sleeping
-400 95 is sleeping
-401 64 has taken next fork
-401 64 is eating
-400 123 is sleeping
-400 115 is sleeping
-400 98 is thinking
-400 110 is thinking
-400 110 has taken a fork
-400 110 has taken next fork
-400 94 is thinking
-400 110 is eating
-400 100 is thinking
-400 100 has taken a fork
-400 92 is thinking
-400 80 is thinking
-400 80 has taken a fork
-400 80 has taken next fork
-400 80 is eating
-400 91 is sleeping
-400 107 is sleeping
-400 88 is thinking
-400 92 has taken a fork
-400 97 is sleeping
-400 96 is thinking
-400 96 has taken a fork
-400 96 has taken next fork
-400 96 is eating
-400 76 has taken a fork
-400 87 is sleeping
-400 76 has taken next fork
-400 76 is eating
-400 86 is thinking
-400 82 is thinking
-400 82 has taken a fork
-400 86 has taken a fork
-400 86 has taken next fork
-400 86 is eating
-400 68 is eating
-400 66 is thinking
-400 66 has taken a fork
-400 66 has taken next fork
-400 66 is eating
-400 72 has taken a fork
-400 83 is sleeping
-400 72 has taken next fork
-400 72 is eating
-400 93 is sleeping
-400 90 is thinking
-400 90 has taken a fork
-400 90 has taken next fork
-400 90 is eating
-400 104 is thinking
-400 104 has taken a fork
-400 104 has taken next fork
-400 104 is eating
-400 79 is sleeping
-400 78 has taken a fork
-400 78 has taken next fork
-400 78 is eating
-400 116 has taken a fork
-400 116 has taken next fork
-400 116 is eating
-400 112 is thinking
-400 106 has taken next fork
-400 112 has taken a fork
-400 112 has taken next fork
-400 112 is eating
-400 106 is eating
-400 98 has taken a fork
-400 88 has taken a fork
-400 88 has taken next fork
-400 88 is eating
-400 98 has taken next fork
-400 98 is eating
-400 74 has taken a fork
-400 74 has taken next fork
-400 74 is eating
-400 85 is sleeping
-400 114 has taken a fork
-400 114 has taken next fork
-400 114 is eating
-400 94 has taken a fork
-400 92 has taken next fork
-400 73 is sleeping
-400 92 is eating
-400 94 has taken next fork
-400 94 is eating
-400 82 has taken next fork
-400 82 is eating
-400 102 has taken a fork
-400 102 has taken next fork
-400 102 is eating
-400 100 has taken next fork
-400 100 is eating
-400 71 is sleeping
-400 101 is sleeping
-400 120 has taken a fork
-400 120 has taken next fork
-400 120 is eating
-400 118 has taken next fork
-400 118 is eating
-400 108 is thinking
-400 108 has taken a fork
-400 108 has taken next fork
-400 108 is eating
-400 122 has taken a fork
-400 122 has taken next fork
-400 122 is eating
-400 124 has taken a fork
-400 84 has taken a fork
-400 84 has taken next fork
-400 84 is eating
-400 144 is thinking
-401 125 is sleeping
-400 152 is thinking
-400 137 is sleeping
-400 173 is sleeping
-400 145 is sleeping
-400 186 is thinking
-400 134 is thinking
-400 194 is thinking
-400 191 is sleeping
-401 124 has taken next fork
-400 179 is sleeping
-401 124 is eating
-400 189 is sleeping
-400 151 is sleeping
-400 156 is thinking
-400 149 is sleeping
-400 139 is sleeping
-400 193 is sleeping
-400 170 is thinking
-400 195 is sleeping
-400 166 is thinking
-400 170 has taken a fork
-400 168 is thinking
-400 169 is sleeping
-400 154 is thinking
-400 138 is thinking
-400 138 has taken a fork
-400 138 has taken next fork
-400 192 is thinking
-400 192 has taken a fork
-400 150 is thinking
-400 150 has taken a fork
-400 150 has taken next fork
-400 127 is sleeping
-400 150 is eating
-400 192 has taken next fork
-400 192 is eating
-400 158 is thinking
-400 138 is eating
-400 180 is thinking
-400 180 has taken a fork
-400 178 is thinking
-400 146 is thinking
-400 146 has taken a fork
-400 160 is thinking
-400 136 is thinking
-400 140 is thinking
-400 140 has taken a fork
-400 183 is sleeping
-400 131 is sleeping
-400 161 is sleeping
-400 135 is sleeping
-400 184 is thinking
-400 184 has taken a fork
-400 190 is thinking
-400 190 has taken a fork
-400 190 has taken next fork
-400 164 is thinking
-400 190 is eating
-400 152 has taken a fork
-400 142 is thinking
-400 165 is sleeping
-400 188 is thinking
-400 177 is sleeping
-400 172 is thinking
-400 182 is thinking
-400 196 is thinking
-400 196 has taken a fork
-400 194 has taken a fork
-400 194 has taken next fork
-400 194 is eating
-400 132 is thinking
-400 132 has taken a fork
-400 185 is sleeping
-400 159 is sleeping
-400 198 is thinking
-400 163 is sleeping
-400 175 is sleeping
-400 167 is sleeping
-400 148 is thinking
-400 157 is sleeping
-400 147 is sleeping
-400 148 has taken a fork
-400 148 has taken next fork
-400 148 is eating
-400 143 is sleeping
-400 153 is sleeping
-400 176 is thinking
-400 176 has taken a fork
-401 126 is thinking
-401 126 has taken a fork
-400 176 has taken next fork
-400 176 is eating
-401 126 has taken next fork
-401 126 is eating
-400 171 is sleeping
-400 174 is thinking
-400 174 has taken a fork
-400 133 is sleeping
-400 174 has taken next fork
-400 174 is eating
-400 197 is sleeping
-400 129 is sleeping
-400 128 is thinking
-400 128 has taken a fork
-400 128 has taken next fork
-400 128 is eating
-400 155 is sleeping
-400 136 has taken a fork
-400 136 has taken next fork
-400 136 is eating
-400 162 is thinking
-400 162 has taken a fork
-400 178 has taken a fork
-400 178 has taken next fork
-400 186 has taken a fork
-400 178 is eating
-400 186 has taken next fork
-400 186 is eating
-400 162 has taken next fork
-400 162 is eating
-400 160 has taken a fork
-400 160 has taken next fork
-400 164 has taken a fork
-400 160 is eating
-400 164 has taken next fork
-400 164 is eating
-400 184 has taken next fork
-400 184 is eating
-400 158 has taken a fork
-400 198 has taken a fork
-400 158 has taken next fork
-400 158 is eating
-400 196 has taken next fork
-400 196 is eating
-400 182 has taken a fork
-400 182 has taken next fork
-400 166 has taken a fork
-400 182 is eating
-400 166 has taken next fork
-400 166 is eating
-400 130 is thinking
-400 130 has taken a fork
-400 130 has taken next fork
-400 130 is eating
-400 141 is sleeping
-400 154 has taken a fork
-400 172 has taken a fork
-400 154 has taken next fork
-400 172 has taken next fork
-400 154 is eating
-400 170 has taken next fork
-400 172 is eating
-400 188 has taken a fork
-400 188 has taken next fork
-400 187 is sleeping
-400 134 has taken a fork
-400 134 has taken next fork
-400 156 has taken a fork
-400 156 has taken next fork
-400 156 is eating
-400 132 has taken next fork
-400 132 is eating
-400 142 has taken a fork
-400 142 has taken next fork
-400 142 is eating
-400 180 has taken next fork
-400 180 is eating
-400 181 is sleeping
-400 168 has taken a fork
-400 168 has taken next fork
-400 144 has taken a fork
-400 144 has taken next fork
-400 152 has taken next fork
-400 144 is eating
-400 188 is eating
-400 134 is eating
-400 170 is eating
-400 146 has taken next fork
-400 146 is eating
-400 168 is eating
-400 152 is eating
-400 140 has taken next fork
-400 140 is eating
-600 41 is thinking
-600 9 is thinking
-600 39 is thinking
-600 17 is thinking
-600 55 is thinking
-600 58 is sleeping
-600 59 is thinking
-600 59 has taken a fork
-600 40 is sleeping
-600 34 is sleeping
-600 16 is sleeping
-600 42 is sleeping
-600 53 is thinking
-600 20 is sleeping
-600 6 is sleeping
-600 11 is thinking
-600 19 is thinking
-600 12 is sleeping
-600 44 is sleeping
-600 56 is sleeping
-600 36 is sleeping
-600 26 is sleeping
-600 30 is sleeping
-600 24 is sleeping
-600 23 is thinking
-600 62 is sleeping
-600 48 is sleeping
-600 13 is thinking
-600 13 has taken a fork
-600 14 is sleeping
-600 13 has taken next fork
-600 13 is eating
-600 45 is thinking
-600 45 has taken a fork
-600 35 is thinking
-600 3 is thinking
-600 35 has taken a fork
-600 35 has taken next fork
-600 35 is eating
-598 199 has taken next fork
-598 199 is eating
-600 46 is sleeping
-600 25 is thinking
-600 25 has taken a fork
-600 25 has taken next fork
-600 25 is eating
-600 51 is thinking
-600 15 is thinking
-600 15 has taken a fork
-600 15 has taken next fork
-600 15 is eating
-600 49 is thinking
-600 49 has taken a fork
-600 1 is thinking
-600 41 has taken a fork
-600 1 has taken a fork
-600 41 has taken next fork
-600 7 is thinking
-600 7 has taken a fork
-600 43 is thinking
-600 43 has taken a fork
-600 4 is sleeping
-600 43 has taken next fork
-600 43 is eating
-600 17 has taken a fork
-600 28 is sleeping
-600 32 is sleeping
-600 37 is thinking
-600 37 has taken a fork
-600 31 is thinking
-600 17 has taken next fork
-600 2 is sleeping
-600 17 is eating
-600 33 is thinking
-600 33 has taken a fork
-600 54 is sleeping
-600 29 is thinking
-600 29 has taken a fork
-600 38 is sleeping
-600 29 has taken next fork
-600 29 is eating
-600 50 is sleeping
-600 10 is sleeping
-600 8 is sleeping
-600 60 is sleeping
-600 63 is thinking
-600 63 has taken a fork
-600 22 is sleeping
-600 27 is thinking
-600 27 has taken a fork
-600 27 has taken next fork
-600 27 is eating
-600 45 has taken next fork
-600 45 is eating
-600 53 has taken a fork
-600 53 has taken next fork
-600 53 is eating
-598 200 is sleeping
-600 52 is sleeping
-600 57 is thinking
-600 57 has taken a fork
-600 57 has taken next fork
-600 57 is eating
-600 47 is thinking
-600 47 has taken a fork
-600 47 has taken next fork
-600 47 is eating
-600 61 is thinking
-600 41 is eating
-600 61 has taken a fork
-600 61 has taken next fork
-600 61 is eating
-600 3 has taken a fork
-600 3 has taken next fork
-600 3 is eating
-600 21 is thinking
-600 21 has taken a fork
-600 21 has taken next fork
-600 21 is eating
-600 1 has taken next fork
-600 1 is eating
-600 37 has taken next fork
-600 51 has taken a fork
-600 51 has taken next fork
-600 33 has taken next fork
-600 39 has taken a fork
-600 51 is eating
-600 39 has taken next fork
-600 33 is eating
-600 37 is eating
-600 39 is eating
-600 49 has taken next fork
-600 11 has taken a fork
-600 9 has taken a fork
-600 7 has taken next fork
-600 7 is eating
-600 55 has taken a fork
-600 55 has taken next fork
-600 55 is eating
-600 31 has taken a fork
-600 31 has taken next fork
-600 31 is eating
-600 49 is eating
-600 9 has taken next fork
-600 9 is eating
-600 5 is thinking
-600 5 has taken a fork
-600 5 has taken next fork
-600 5 is eating
-600 59 has taken next fork
-600 59 is eating
-600 11 has taken next fork
-600 11 is eating
-600 23 has taken a fork
-600 23 has taken next fork
-600 23 is eating
-600 19 has taken a fork
-600 19 has taken next fork
-600 19 is eating
-600 18 is sleeping
-600 68 is sleeping
-600 102 is sleeping
-601 65 is thinking
-600 106 is sleeping
-600 91 is thinking
-600 121 is thinking
-600 113 is thinking
-600 109 is thinking
-600 117 is thinking
-600 74 is sleeping
-600 87 is thinking
-600 79 is thinking
-600 95 is thinking
-600 72 is sleeping
-600 112 is sleeping
-600 81 is thinking
-600 83 is thinking
-600 114 is sleeping
-600 111 is thinking
-600 77 is thinking
-600 123 is thinking
-600 80 is sleeping
-600 115 is thinking
-600 115 has taken a fork
-601 64 is sleeping
-600 107 is thinking
-600 107 has taken a fork
-600 82 is sleeping
-600 73 is thinking
-600 73 has taken a fork
-600 73 has taken next fork
-600 73 is eating
-600 100 is sleeping
-600 94 is sleeping
-600 71 is thinking
-600 116 is sleeping
-600 96 is sleeping
-600 97 is thinking
-600 66 is sleeping
-600 90 is sleeping
-600 97 has taken a fork
-600 118 is sleeping
-600 84 is sleeping
-600 70 is sleeping
-600 110 is sleeping
-600 120 is sleeping
-600 104 is sleeping
-600 92 is sleeping
-600 103 is thinking
-600 103 has taken a fork
-600 103 has taken next fork
-600 103 is eating
-600 108 is sleeping
-600 69 is thinking
-600 69 has taken a fork
-600 69 has taken next fork
-600 69 is eating
-600 85 is thinking
-600 85 has taken a fork
-600 93 is thinking
-600 93 has taken a fork
-600 93 has taken next fork
-600 99 is thinking
-600 93 is eating
-600 98 is sleeping
-600 99 has taken a fork
-600 99 has taken next fork
-600 99 is eating
-600 101 is thinking
-600 113 has taken a fork
-600 113 has taken next fork
-600 113 is eating
-600 101 has taken a fork
-600 101 has taken next fork
-600 101 is eating
-600 89 is thinking
-600 81 has taken a fork
-600 81 has taken next fork
-600 119 is thinking
-600 119 has taken a fork
-600 119 has taken next fork
-600 119 is eating
-600 86 is sleeping
-600 81 is eating
-600 88 is sleeping
-601 65 has taken a fork
-601 65 has taken next fork
-601 65 is eating
-600 67 is thinking
-600 67 has taken a fork
-600 67 has taken next fork
-600 67 is eating
-601 63 has taken next fork
-600 105 is thinking
-600 105 has taken a fork
-600 105 has taken next fork
-600 105 is eating
-600 79 has taken a fork
-600 75 is thinking
-600 75 has taken a fork
-600 75 has taken next fork
-600 78 is sleeping
-600 75 is eating
-600 83 has taken a fork
-600 83 has taken next fork
-600 83 is eating
-600 95 has taken a fork
-600 95 has taken next fork
-600 95 is eating
-600 115 has taken next fork
-600 115 is eating
-600 91 has taken a fork
-600 91 has taken next fork
-600 91 is eating
-600 77 has taken a fork
-600 77 has taken next fork
-600 77 is eating
-600 76 is sleeping
-600 71 has taken a fork
-600 71 has taken next fork
-600 121 has taken a fork
-600 121 has taken next fork
-600 121 is eating
-600 109 has taken a fork
-600 109 has taken next fork
-600 109 is eating
-600 107 has taken next fork
-600 123 has taken a fork
-600 122 is sleeping
-600 107 is eating
-600 97 has taken next fork
-600 97 is eating
-600 87 has taken a fork
-600 87 has taken next fork
-600 87 is eating
-600 85 has taken next fork
-600 85 is eating
-600 89 has taken a fork
-600 89 has taken next fork
-600 89 is eating
-601 63 is eating
-600 79 has taken next fork
-600 79 is eating
-600 117 has taken a fork
-600 117 has taken next fork
-600 117 is eating
-600 111 has taken a fork
-600 111 has taken next fork
-600 111 is eating
-600 71 is eating
-600 141 is thinking
-600 195 is thinking
-600 161 is thinking
-600 186 is sleeping
-600 188 is sleeping
-600 194 is sleeping
-600 135 is thinking
-600 166 is sleeping
-600 140 is sleeping
-600 155 is thinking
-600 195 has taken a fork
-600 156 is sleeping
-600 181 is thinking
-600 168 is sleeping
-600 165 is thinking
-600 153 is thinking
-600 185 is thinking
-600 196 is sleeping
-600 174 is sleeping
-600 150 is sleeping
-600 149 is thinking
-600 191 is thinking
-600 193 is thinking
-600 147 is thinking
-600 170 is sleeping
-600 128 is sleeping
-600 134 is sleeping
-600 167 is thinking
-600 167 has taken a fork
-600 167 has taken next fork
-600 167 is eating
-600 152 is sleeping
-600 139 is thinking
-600 151 is thinking
-600 182 is sleeping
-600 136 is sleeping
-600 159 is thinking
-600 154 is sleeping
-600 142 is sleeping
-600 151 has taken a fork
-600 151 has taken next fork
-600 169 is thinking
-600 189 is thinking
-600 189 has taken a fork
-601 126 is sleeping
-600 151 is eating
-600 132 is sleeping
-600 178 is sleeping
-600 127 is thinking
-600 127 has taken a fork
-600 127 has taken next fork
-600 127 is eating
-600 144 is sleeping
-600 129 is thinking
-600 129 has taken a fork
-600 131 is thinking
-600 169 has taken a fork
-600 169 has taken next fork
-600 169 is eating
-600 183 is thinking
-600 183 has taken a fork
-600 183 has taken next fork
-600 183 is eating
-600 164 is sleeping
-600 138 is sleeping
-600 160 is sleeping
-601 125 is thinking
-600 177 is thinking
-600 177 has taken a fork
-600 177 has taken next fork
-600 177 is eating
-600 148 is sleeping
-600 179 is thinking
-600 179 has taken a fork
-600 172 is sleeping
-600 190 is sleeping
-600 146 is sleeping
-600 130 is sleeping
-600 197 is thinking
-600 197 has taken a fork
-600 158 is sleeping
-600 180 is sleeping
-600 162 is sleeping
-600 143 is thinking
-600 143 has taken a fork
-600 143 has taken next fork
-600 143 is eating
-600 187 is thinking
-600 187 has taken a fork
-600 187 has taken next fork
-600 187 is eating
-600 145 is thinking
-600 145 has taken a fork
-601 124 is sleeping
-600 145 has taken next fork
-600 163 is thinking
-600 163 has taken a fork
-600 133 is thinking
-600 163 has taken next fork
-600 133 has taken a fork
-600 163 is eating
-600 133 has taken next fork
-600 145 is eating
-600 141 has taken a fork
-600 195 has taken next fork
-600 141 has taken next fork
-600 195 is eating
-600 133 is eating
-600 141 is eating
-600 173 is thinking
-600 173 has taken a fork
-600 176 is sleeping
-600 135 has taken a fork
-600 173 has taken next fork
-600 173 is eating
-600 155 has taken a fork
-600 135 has taken next fork
-600 135 is eating
-600 155 has taken next fork
-600 153 has taken a fork
-600 184 is sleeping
-600 153 has taken next fork
-600 153 is eating
-600 155 is eating
-600 161 has taken a fork
-600 165 has taken a fork
-600 161 has taken next fork
-600 165 has taken next fork
-600 185 has taken a fork
-600 185 has taken next fork
-600 161 is eating
-600 185 is eating
-600 139 has taken a fork
-600 139 has taken next fork
-600 139 is eating
-600 137 is thinking
-600 165 is eating
-600 149 has taken a fork
-600 137 has taken a fork
-600 189 has taken next fork
-600 147 has taken a fork
-600 189 is eating
-600 147 has taken next fork
-600 147 is eating
-600 137 has taken next fork
-600 137 is eating
-600 129 has taken next fork
-600 131 has taken a fork
-600 181 has taken a fork
-600 131 has taken next fork
-600 131 is eating
-600 181 has taken next fork
-600 129 is eating
-600 175 is thinking
-600 193 has taken a fork
-600 193 has taken next fork
-600 179 has taken next fork
-600 193 is eating
-600 179 is eating
-600 175 has taken a fork
-600 175 has taken next fork
-600 175 is eating
-601 125 has taken a fork
-600 181 is eating
-601 125 has taken next fork
-601 125 is eating
-600 192 is sleeping
-601 123 has taken next fork
-601 123 is eating
-600 157 is thinking
-600 157 has taken a fork
-600 191 has taken a fork
-600 191 has taken next fork
-600 191 is eating
-600 159 has taken a fork
-600 159 has taken next fork
-600 171 is thinking
-600 149 has taken next fork
-600 171 has taken a fork
-600 157 has taken next fork
-600 171 has taken next fork
-600 157 is eating
-600 149 is eating
-600 171 is eating
-600 159 is eating
-800 52 is thinking
-800 1 is sleeping
-800 15 is sleeping
-800 40 is thinking
-798 200 is thinking
-800 30 is thinking
-800 45 is sleeping
-800 11 is sleeping
-800 39 is sleeping
-800 16 is thinking
-800 16 has taken a fork
-800 37 is sleeping
-800 5 is sleeping
-800 7 is sleeping
-798 199 is sleeping
-800 34 is thinking
-800 42 is thinking
-800 29 is sleeping
-800 2 is thinking
-800 6 is thinking
-800 58 is thinking
-800 2 has taken a fork
-800 8 is thinking
-800 43 is sleeping
-800 8 has taken a fork
-800 4 is thinking
-800 31 is sleeping
-800 54 is thinking
-800 36 is thinking
-800 36 has taken a fork
-800 20 is thinking
-800 36 has taken next fork
-800 56 is thinking
-800 61 is sleeping
-800 56 has taken a fork
-800 56 has taken next fork
-800 41 is sleeping
-800 56 is eating
-800 49 is sleeping
-800 47 is sleeping
-800 53 is sleeping
-800 51 is sleeping
-800 3 is sleeping
-800 46 is thinking
-800 46 has taken a fork
-800 46 has taken next fork
-800 17 is sleeping
-800 50 is thinking
-800 50 has taken a fork
-800 50 has taken next fork
-800 60 is thinking
-800 33 is sleeping
-800 50 is eating
-800 24 is thinking
-800 24 has taken a fork
-800 40 has taken a fork
-800 12 is thinking
-800 12 has taken a fork
-800 12 has taken next fork
-800 12 is eating
-798 200 has taken a fork
-798 200 has taken next fork
-798 200 is eating
-798 198 has taken next fork
-798 198 is eating
-800 30 has taken a fork
-800 30 has taken next fork
-800 59 is sleeping
-800 30 is eating
-800 19 is sleeping
-800 38 is thinking
-800 38 has taken a fork
-800 38 has taken next fork
-800 38 is eating
-800 26 is thinking
-800 26 has taken a fork
-800 35 is sleeping
-800 26 has taken next fork
-800 26 is eating
-800 9 is sleeping
-800 48 is thinking
-800 48 has taken a fork
-800 48 has taken next fork
-800 48 is eating
-800 28 is thinking
-800 28 has taken a fork
-800 28 has taken next fork
-800 28 is eating
-800 62 is thinking
-800 62 has taken a fork
-800 27 is sleeping
-800 10 is thinking
-800 10 has taken a fork
-800 10 has taken next fork
-800 10 is eating
-800 14 is thinking
-800 14 has taken a fork
-800 14 has taken next fork
-800 14 is eating
-800 58 has taken a fork
-800 58 has taken next fork
-800 58 is eating
-800 6 has taken a fork
-800 6 has taken next fork
-800 6 is eating
-800 44 is thinking
-800 44 has taken a fork
-800 44 has taken next fork
-800 42 has taken a fork
-800 42 has taken next fork
-800 42 is eating
-800 44 is eating
-800 8 has taken next fork
-800 8 is eating
-800 55 is sleeping
-800 57 is sleeping
-800 54 has taken a fork
-800 52 has taken a fork
-800 54 has taken next fork
-800 52 has taken next fork
-800 54 is eating
-800 23 is sleeping
-800 16 has taken next fork
-800 16 is eating
-800 46 is eating
-800 60 has taken a fork
-800 34 has taken a fork
-800 34 has taken next fork
-800 34 is eating
-800 21 is sleeping
-800 40 has taken next fork
-800 40 is eating
-800 25 is sleeping
-800 18 is thinking
-800 13 is sleeping
-800 18 has taken a fork
-800 18 has taken next fork
-800 18 is eating
-800 22 is thinking
-800 22 has taken a fork
-800 22 has taken next fork
-800 22 is eating
-800 32 is thinking
-800 36 is eating
-800 20 has taken a fork
-800 20 has taken next fork
-800 20 is eating
-800 4 has taken a fork
-800 4 has taken next fork
-800 4 is eating
-800 52 is eating
-800 32 has taken a fork
-800 32 has taken next fork
-800 32 is eating
-800 2 has taken next fork
-800 2 is eating
-800 24 has taken next fork
-800 24 is eating
-800 60 has taken next fork
-800 60 is eating
-800 106 is thinking
-800 87 is sleeping
-800 68 is thinking
-800 110 is thinking
-800 118 is thinking
-801 65 is sleeping
-800 70 is thinking
-801 63 is sleeping
-800 78 is thinking
-800 112 is thinking
-800 96 is thinking
-800 102 is thinking
-800 109 is sleeping
-800 115 is sleeping
-800 120 is thinking
-800 89 is sleeping
-800 99 is sleeping
-800 111 is sleeping
-800 95 is sleeping
-800 83 is sleeping
-800 122 is thinking
-800 75 is sleeping
-800 101 is sleeping
-800 79 is sleeping
-800 121 is sleeping
-800 72 is thinking
-800 67 is sleeping
-800 91 is sleeping
-800 119 is sleeping
-800 73 is sleeping
-800 90 is thinking
-800 86 is thinking
-800 90 has taken a fork
-800 90 has taken next fork
-800 90 is eating
-800 84 is thinking
-800 66 is thinking
-800 88 is thinking
-800 88 has taken a fork
-800 66 has taken a fork
-800 66 has taken next fork
-800 77 is sleeping
-800 88 has taken next fork
-800 88 is eating
-800 81 is sleeping
-800 66 is eating
-800 74 is thinking
-800 74 has taken a fork
-800 97 is sleeping
-800 74 has taken next fork
-800 74 is eating
-800 85 is sleeping
-800 113 is sleeping
-800 76 is thinking
-800 94 is thinking
-800 108 is thinking
-800 76 has taken a fork
-800 94 has taken a fork
-800 76 has taken next fork
-800 94 has taken next fork
-800 76 is eating
-800 103 is sleeping
-800 94 is eating
-800 105 is sleeping
-800 107 is sleeping
-801 64 is thinking
-801 64 has taken a fork
-801 64 has taken next fork
-801 64 is eating
-800 69 is sleeping
-800 80 is thinking
-800 80 has taken a fork
-800 80 has taken next fork
-800 80 is eating
-800 104 is thinking
-800 104 has taken a fork
-800 104 has taken next fork
-800 104 is eating
-800 114 is thinking
-800 114 has taken a fork
-800 82 is thinking
-800 114 has taken next fork
-800 114 is eating
-800 100 is thinking
-800 82 has taken a fork
-800 82 has taken next fork
-800 82 is eating
-800 100 has taken a fork
-800 100 has taken next fork
-800 100 is eating
-800 102 has taken a fork
-800 102 has taken next fork
-800 122 has taken a fork
-800 102 is eating
-800 68 has taken a fork
-800 68 has taken next fork
-800 68 is eating
-800 84 has taken a fork
-800 84 has taken next fork
-800 84 is eating
-800 78 has taken a fork
-800 78 has taken next fork
-800 78 is eating
-800 118 has taken a fork
-800 118 has taken next fork
-800 118 is eating
-800 72 has taken a fork
-801 62 has taken next fork
-801 62 is eating
-800 98 is thinking
-800 98 has taken a fork
-800 98 has taken next fork
-800 98 is eating
-800 117 is sleeping
-800 110 has taken a fork
-800 71 is sleeping
-800 110 has taken next fork
-800 92 is thinking
-800 72 has taken next fork
-800 72 is eating
-800 92 has taken a fork
-800 112 has taken a fork
-800 112 has taken next fork
-800 112 is eating
-800 110 is eating
-800 92 has taken next fork
-800 92 is eating
-800 93 is sleeping
-800 96 has taken a fork
-800 96 has taken next fork
-800 96 is eating
-800 108 has taken a fork
-800 108 has taken next fork
-800 108 is eating
-800 106 has taken a fork
-800 106 has taken next fork
-800 106 is eating
-800 70 has taken a fork
-800 70 has taken next fork
-800 70 is eating
-800 116 is thinking
-800 116 has taken a fork
-800 116 has taken next fork
-800 116 is eating
-800 120 has taken a fork
-800 120 has taken next fork
-800 120 is eating
-800 86 has taken a fork
-800 86 has taken next fork
-800 86 is eating
-800 177 is sleeping
-800 129 is sleeping
-800 174 is thinking
-800 160 is thinking
-800 163 is sleeping
-800 162 is thinking
-800 187 is sleeping
-800 156 is thinking
-800 154 is thinking
-800 139 is sleeping
-801 124 is thinking
-800 155 is sleeping
-801 125 is sleeping
-800 132 is thinking
-800 156 has taken a fork
-800 147 is sleeping
-800 135 is sleeping
-800 148 is thinking
-800 148 has taken a fork
-800 128 is thinking
-800 157 is sleeping
-800 137 is sleeping
-800 150 is thinking
-800 133 is sleeping
-800 141 is sleeping
-800 149 is sleeping
-800 150 has taken a fork
-800 180 is thinking
-800 145 is sleeping
-800 138 is thinking
-800 138 has taken a fork
-800 138 has taken next fork
-800 138 is eating
-801 123 is sleeping
-800 175 is sleeping
-800 140 is thinking
-800 140 has taken a fork
-800 196 is thinking
-800 140 has taken next fork
-800 140 is eating
-800 192 is thinking
-800 173 is sleeping
-800 151 is sleeping
-800 142 is thinking
-800 142 has taken a fork
-800 152 is thinking
-800 127 is sleeping
-800 152 has taken a fork
-800 144 is thinking
-800 164 is thinking
-800 164 has taken a fork
-800 181 is sleeping
-800 159 is sleeping
-801 126 is thinking
-801 126 has taken a fork
-801 126 has taken next fork
-801 126 is eating
-800 184 is thinking
-800 156 has taken next fork
-800 156 is eating
-800 167 is sleeping
-800 169 is sleeping
-800 148 has taken next fork
-800 172 is thinking
-800 148 is eating
-800 146 is thinking
-800 146 has taken a fork
-800 146 has taken next fork
-800 146 is eating
-800 143 is sleeping
-801 124 has taken a fork
-800 161 is sleeping
-801 124 has taken next fork
-801 124 is eating
-800 171 is sleeping
-800 185 is sleeping
-800 194 is thinking
-801 122 has taken next fork
-800 168 is thinking
-801 122 is eating
-800 168 has taken a fork
-800 168 has taken next fork
-800 168 is eating
-800 166 is thinking
-800 170 is thinking
-800 170 has taken a fork
-800 191 is sleeping
-800 170 has taken next fork
-800 170 is eating
-800 190 is thinking
-800 131 is sleeping
-800 190 has taken a fork
-800 128 has taken a fork
-800 190 has taken next fork
-800 128 has taken next fork
-800 164 has taken next fork
-800 128 is eating
-800 164 is eating
-800 165 is sleeping
-800 144 has taken a fork
-800 142 has taken next fork
-800 144 has taken next fork
-800 172 has taken a fork
-800 144 is eating
-800 172 has taken next fork
-800 172 is eating
-800 192 has taken a fork
-800 192 has taken next fork
-800 180 has taken a fork
-800 192 is eating
-800 180 has taken next fork
-800 180 is eating
-800 178 is thinking
-800 178 has taken a fork
-800 178 has taken next fork
-800 178 is eating
-800 184 has taken a fork
-800 184 has taken next fork
-800 154 has taken a fork
-800 184 is eating
-800 154 has taken next fork
-800 154 is eating
-800 196 has taken a fork
-800 152 has taken next fork
-800 152 is eating
-800 166 has taken a fork
-800 162 has taken a fork
-800 194 has taken a fork
-800 194 has taken next fork
-800 183 is sleeping
-800 194 is eating
-800 162 has taken next fork
-800 162 is eating
-800 132 has taken a fork
-800 166 has taken next fork
-800 166 is eating
-800 132 has taken next fork
-800 179 is sleeping
-800 132 is eating
-800 176 is thinking
-800 136 is thinking
-800 136 has taken a fork
-800 134 is thinking
-800 136 has taken next fork
-800 134 has taken a fork
-800 176 has taken a fork
-800 134 has taken next fork
-800 176 has taken next fork
-800 134 is eating
-800 176 is eating
-800 136 is eating
-800 195 is sleeping
-800 174 has taken a fork
-800 186 is thinking
-800 174 has taken next fork
-800 153 is sleeping
-800 186 has taken a fork
-800 186 has taken next fork
-800 150 has taken next fork
-800 150 is eating
-800 158 is thinking
-800 158 has taken a fork
-800 186 is eating
-800 182 is thinking
-800 158 has taken next fork
-800 174 is eating
-800 158 is eating
-800 188 is thinking
-800 188 has taken a fork
-800 193 is sleeping
-800 188 has taken next fork
-800 160 has taken a fork
-800 182 has taken a fork
-800 182 has taken next fork
-800 182 is eating
-800 130 is thinking
-800 142 is eating
-800 130 has taken a fork
-800 130 has taken next fork
-800 190 is eating
-800 188 is eating
-800 189 is sleeping
-800 160 has taken next fork
-800 130 is eating
-800 160 is eating
-1000 59 is thinking
-1000 57 is thinking
-1000 35 is thinking
-1000 37 is thinking
-1000 21 is thinking
-1000 8 is sleeping
-1000 43 is thinking
-1000 25 is thinking
-1000 30 is sleeping
-1000 31 is thinking
-1000 31 has taken a fork
-998 198 is sleeping
-1000 33 is thinking
-1000 39 is thinking
-1000 48 is sleeping
-1000 53 is thinking
-1000 4 is sleeping
-1000 46 is sleeping
-1000 45 is thinking
-1000 49 is thinking
-1000 1 is thinking
-1000 36 is sleeping
-1000 47 is thinking
-1000 47 has taken a fork
-1000 47 has taken next fork
-1000 7 is thinking
-1000 47 is eating
-1000 12 is sleeping
-1000 24 is sleeping
-1000 5 is thinking
-1000 5 has taken a fork
-1000 5 has taken next fork
-1000 6 is sleeping
-1000 50 is sleeping
-1000 5 is eating
-1000 58 is sleeping
-1000 61 is thinking
-1000 15 is thinking
-1000 32 is sleeping
-1000 29 is thinking
-1000 40 is sleeping
-1000 16 is sleeping
-1000 52 is sleeping
-1000 9 is thinking
-1000 9 has taken a fork
-1000 60 is sleeping
-1000 38 is sleeping
-998 199 is thinking
-998 199 has taken a fork
-1000 44 is sleeping
-1000 11 is thinking
-1000 26 is sleeping
-1000 27 is thinking
-1000 27 has taken a fork
-998 197 has taken next fork
-998 197 is eating
-1000 20 is sleeping
-1000 28 is sleeping
-1000 13 is thinking
-1000 13 has taken a fork
-1000 2 is sleeping
-1000 17 is thinking
-1000 17 has taken a fork
-1000 51 is thinking
-1000 51 has taken a fork
-1000 51 has taken next fork
-1000 51 is eating
-998 200 is sleeping
-1000 3 is thinking
-1000 3 has taken a fork
-1000 3 has taken next fork
-1000 3 is eating
-1000 54 is sleeping
-1000 22 is sleeping
-1000 14 is sleeping
-1000 19 is thinking
-1000 19 has taken a fork
-1000 19 has taken next fork
-1000 19 is eating
-1000 10 is sleeping
-1000 17 has taken next fork
-1000 17 is eating
-1000 34 is sleeping
-1000 23 is thinking
-1000 23 has taken a fork
-1000 23 has taken next fork
-1000 37 has taken a fork
-1000 37 has taken next fork
-1000 25 has taken a fork
-1000 25 has taken next fork
-1000 21 has taken a fork
-1000 21 has taken next fork
-1000 21 is eating
-1000 29 has taken a fork
-1000 29 has taken next fork
-1000 29 is eating
-1000 1 has taken a fork
-1000 1 has taken next fork
-998 199 has taken next fork
-998 199 is eating
-1000 55 is thinking
-1000 55 has taken a fork
-1000 15 has taken a fork
-1000 15 has taken next fork
-1000 13 has taken next fork
-1000 15 is eating
-1000 13 is eating
-1000 11 has taken a fork
-1000 11 has taken next fork
-1000 11 is eating
-1000 9 has taken next fork
-1000 9 is eating
-1000 35 has taken a fork
-1000 35 has taken next fork
-1000 35 is eating
-1000 43 has taken a fork
-1000 43 has taken next fork
-1000 43 is eating
-1000 42 is sleeping
-1000 23 is eating
-1000 49 has taken a fork
-1000 49 has taken next fork
-1000 49 is eating
-1000 57 has taken a fork
-1000 57 has taken next fork
-1000 18 is sleeping
-1000 7 has taken a fork
-1000 7 has taken next fork
-1000 7 is eating
-1000 31 has taken next fork
-1000 33 has taken a fork
-1000 33 has taken next fork
-1000 33 is eating
-1000 53 has taken a fork
-1000 53 has taken next fork
-1000 53 is eating
-1000 39 has taken a fork
-1000 39 has taken next fork
-1000 39 is eating
-1000 61 has taken a fork
-1000 41 is thinking
-1000 41 has taken a fork
-1000 41 has taken next fork
-1000 41 is eating
-1000 45 has taken a fork
-1000 45 has taken next fork
-1000 45 is eating
-1000 25 is eating
-1000 27 has taken next fork
-1000 27 is eating
-1000 55 has taken next fork
-1000 55 is eating
-1000 1 is eating
-1000 56 is sleeping
-1000 37 is eating
-1000 57 is eating
-1000 59 has taken a fork
-1000 31 is eating
-1000 59 has taken next fork
-1000 59 is eating
-1000 118 is sleeping
-1000 105 is thinking
-1000 102 is sleeping
-1001 63 is thinking
-1000 91 is thinking
-1000 86 is sleeping
-1000 97 is thinking
-1000 69 is thinking
-1000 96 is sleeping
-1000 97 has taken a fork
-1000 92 is sleeping
-1000 72 is sleeping
-1000 71 is thinking
-1000 116 is sleeping
-1000 101 is thinking
-1000 115 is thinking
-1000 93 is thinking
-1000 93 has taken a fork
-1000 67 is thinking
-1000 74 is sleeping
-1000 113 is thinking
-1000 76 is sleeping
-1000 95 is thinking
-1000 78 is sleeping
-1000 84 is sleeping
-1000 73 is thinking
-1000 73 has taken a fork
-1000 82 is sleeping
-1000 73 has taken next fork
-1000 73 is eating
-1000 121 is thinking
-1000 112 is sleeping
-1001 64 is sleeping
-1000 107 is thinking
-1000 94 is sleeping
-1000 80 is sleeping
-1000 68 is sleeping
-1000 98 is sleeping
-1000 108 is sleeping
-1000 111 is thinking
-1000 89 is thinking
-1000 114 is sleeping
-1000 104 is sleeping
-1000 70 is sleeping
-1000 100 is sleeping
-1000 83 is thinking
-1000 83 has taken a fork
-1000 83 has taken next fork
-1000 83 is eating
-1000 119 is thinking
-1000 119 has taken a fork
-1000 66 is sleeping
-1000 85 is thinking
-1000 85 has taken a fork
-1000 85 has taken next fork
-1000 85 is eating
-1000 106 is sleeping
-1000 110 is sleeping
-1000 77 is thinking
-1000 77 has taken a fork
-1000 81 is thinking
-1000 81 has taken a fork
-1000 81 has taken next fork
-1000 81 is eating
-1000 87 is thinking
-1001 63 has taken a fork
-1001 65 is thinking
-1001 63 has taken next fork
-1001 63 is eating
-1001 65 has taken a fork
-1001 65 has taken next fork
-1001 65 is eating
-1000 90 is sleeping
-1000 75 is thinking
-1000 109 is thinking
-1000 109 has taken a fork
-1000 109 has taken next fork
-1000 109 is eating
-1001 62 is sleeping
-1000 75 has taken a fork
-1000 75 has taken next fork
-1000 75 is eating
-1000 79 is thinking
-1000 79 has taken a fork
-1000 79 has taken next fork
-1000 99 is thinking
-1000 99 has taken a fork
-1000 99 has taken next fork
-1000 117 is thinking
-1000 79 is eating
-1000 103 is thinking
-1000 103 has taken a fork
-1000 103 has taken next fork
-1000 103 is eating
-1000 95 has taken a fork
-1000 95 has taken next fork
-1000 95 is eating
-1000 69 has taken a fork
-1000 69 has taken next fork
-1000 69 is eating
-1000 97 has taken next fork
-1000 97 is eating
-1000 93 has taken next fork
-1000 71 has taken a fork
-1000 71 has taken next fork
-1000 71 is eating
-1000 93 is eating
-1000 105 has taken a fork
-1000 105 has taken next fork
-1000 105 is eating
-1000 67 has taken a fork
-1000 87 has taken a fork
-1000 91 has taken a fork
-1000 91 has taken next fork
-1000 91 is eating
-1000 121 has taken a fork
-1000 119 has taken next fork
-1000 119 is eating
-1000 117 has taken a fork
-1000 117 has taken next fork
-1000 117 is eating
-1000 113 has taken a fork
-1000 113 has taken next fork
-1000 113 is eating
-1000 115 has taken a fork
-1000 115 has taken next fork
-1000 115 is eating
-1000 107 has taken a fork
-1000 107 has taken next fork
-1000 107 is eating
-1000 101 has taken a fork
-1000 111 has taken a fork
-1000 111 has taken next fork
-1000 111 is eating
-1000 101 has taken next fork
-1000 101 is eating
-1000 89 has taken a fork
-1000 89 has taken next fork
-1000 89 is eating
-1000 88 is sleeping
-1000 87 has taken next fork
-1000 87 is eating
-1000 77 has taken next fork
-1000 77 is eating
-1001 61 has taken next fork
-1001 61 is eating
-1000 99 is eating
-1000 120 is sleeping
-1000 67 has taken next fork
-1000 67 is eating
-1000 137 is thinking
-1000 134 is sleeping
-1000 170 is sleeping
-1001 126 is sleeping
-1000 150 is sleeping
-1000 192 is sleeping
-1000 142 is sleeping
-1000 144 is sleeping
-1000 189 is thinking
-1000 185 is thinking
-1000 141 is thinking
-1000 154 is sleeping
-1000 161 is thinking
-1000 149 is thinking
-1000 159 is thinking
-1001 124 is sleeping
-1000 169 is thinking
-1000 163 is thinking
-1000 167 is thinking
-1000 177 is thinking
-1000 132 is sleeping
-1000 184 is sleeping
-1000 182 is sleeping
-1000 156 is sleeping
-1000 152 is sleeping
-1001 125 is thinking
-1001 125 has taken a fork
-1000 151 is thinking
-1000 151 has taken a fork
-1000 131 is thinking
-1000 168 is sleeping
-1000 129 is thinking
-1000 172 is sleeping
-1000 165 is thinking
-1000 178 is sleeping
-1000 140 is sleeping
-1000 162 is sleeping
-1000 157 is thinking
-1000 157 has taken a fork
-1000 148 is sleeping
-1000 130 is sleeping
-1000 139 is thinking
-1000 174 is sleeping
-1000 193 is thinking
-1000 193 has taken a fork
-1000 155 is thinking
-1000 155 has taken a fork
-1000 143 is thinking
-1000 143 has taken a fork
-1000 143 has taken next fork
-1000 143 is eating
-1000 135 is thinking
-1000 135 has taken a fork
-1000 187 is thinking
-1000 138 is sleeping
-1000 190 is sleeping
-1000 191 is thinking
-1000 191 has taken a fork
-1000 166 is sleeping
-1000 191 has taken next fork
-1000 191 is eating
-1000 146 is sleeping
-1000 127 is thinking
-1000 127 has taken a fork
-1000 195 is thinking
-1000 195 has taken a fork
-1000 145 is thinking
-1000 145 has taken a fork
-1000 145 has taken next fork
-1000 145 is eating
-1000 180 is sleeping
-1000 179 is thinking
-1000 164 is sleeping
-1000 179 has taken a fork
-1000 185 has taken a fork
-1000 179 has taken next fork
-1000 183 is thinking
-1000 183 has taken a fork
-1000 183 has taken next fork
-1000 183 is eating
-1000 179 is eating
-1001 122 is sleeping
-1000 147 is thinking
-1000 147 has taken a fork
-1000 176 is sleeping
-1001 123 is thinking
-1001 123 has taken a fork
-1001 123 has taken next fork
-1001 123 is eating
-1000 186 is sleeping
-1000 136 is sleeping
-1000 128 is sleeping
-1000 153 is thinking
-1000 153 has taken a fork
-1000 153 has taken next fork
-1000 153 is eating
-1000 160 is sleeping
-1000 188 is sleeping
-1000 158 is sleeping
-1000 133 is thinking
-1000 173 is thinking
-1000 171 is thinking
-1000 171 has taken a fork
-1000 171 has taken next fork
-1000 171 is eating
-1000 169 has taken a fork
-1000 175 is thinking
-1000 175 has taken a fork
-1000 141 has taken a fork
-1000 141 has taken next fork
-1000 151 has taken next fork
-1000 141 is eating
-1000 151 is eating
-1000 175 has taken next fork
-1000 175 is eating
-1000 169 has taken next fork
-1000 169 is eating
-1000 163 has taken a fork
-1000 149 has taken a fork
-1000 193 has taken next fork
-1000 193 is eating
-1000 155 has taken next fork
-1000 155 is eating
-1000 131 has taken a fork
-1000 139 has taken a fork
-1000 139 has taken next fork
-1000 194 is sleeping
-1000 139 is eating
-1000 131 has taken next fork
-1000 131 is eating
-1000 149 has taken next fork
-1000 149 is eating
-1000 167 has taken a fork
-1000 167 has taken next fork
-1000 167 is eating
-1000 165 has taken a fork
-1001 121 has taken next fork
-1000 177 has taken a fork
-1000 177 has taken next fork
-1000 157 has taken next fork
-1000 177 is eating
-1000 157 is eating
-1001 125 has taken next fork
-1001 121 is eating
-1001 125 is eating
-1000 165 has taken next fork
-1000 181 is thinking
-1000 165 is eating
-1000 181 has taken a fork
-1000 181 has taken next fork
-1000 135 has taken next fork
-1000 181 is eating
-1000 135 is eating
-1000 159 has taken a fork
-1000 133 has taken a fork
-1000 159 has taken next fork
-1000 133 has taken next fork
-1000 159 is eating
-1000 133 is eating
-1000 173 has taken a fork
-1000 137 has taken a fork
-1000 173 has taken next fork
-1000 137 has taken next fork
-1000 173 is eating
-1000 137 is eating
-1000 185 has taken next fork
-1000 189 has taken a fork
-1000 189 has taken next fork
-1000 189 is eating
-1000 187 has taken a fork
-1000 127 has taken next fork
-1000 187 has taken next fork
-1000 127 is eating
-1000 187 is eating
-1000 161 has taken a fork
-1000 185 is eating
-1000 161 has taken next fork
-1000 163 has taken next fork
-1000 163 is eating
-1000 129 has taken a fork
-1000 129 has taken next fork
-1000 161 is eating
-1000 129 is eating
-1000 147 has taken next fork
-1000 147 is eating
-1200 4 is thinking
-1200 32 is thinking
-
-oooooooooooooooooooooooooo end simu = 199 nbr = 32
-1200 36 is thinking
-1200 50 is thinking
-
-oooooooooooooooooooooooooo end simu = 198 nbr = 50
-
-oooooooooooooooooooooooooo end simu = 197 nbr = 4
-1200 8 is thinking
-
-oooooooooooooooooooooooooo end simu = 195 nbr = 8
-1200 40 is thinking
-1200 47 is sleeping
-
-oooooooooooooooooooooooooo end simu = 194 nbr = 40
-1200 10 is thinking
-
-oooooooooooooooooooooooooo end simu = 193 nbr = 10
-1200 38 is thinking
-
-oooooooooooooooooooooooooo end simu = 192 nbr = 38
-1200 28 is thinking
-
-oooooooooooooooooooooooooo end simu = 191 nbr = 28
-1200 21 is sleeping
-1198 197 is sleeping
-1200 26 is thinking
-
-oooooooooooooooooooooooooo end simu = 190 nbr = 26
-1200 35 is sleeping
-1200 29 is sleeping
-1198 199 is sleeping
-1200 12 is thinking
-
-oooooooooooooooooooooooooo end simu = 189 nbr = 12
-1200 6 is thinking
-
-oooooooooooooooooooooooooo end simu = 188 nbr = 6
-1200 58 is thinking
-
-oooooooooooooooooooooooooo end simu = 187 nbr = 58
-1200 44 is thinking
-
-oooooooooooooooooooooooooo end simu = 186 nbr = 44
-1200 19 is sleeping
-1200 5 is sleeping
-1198 198 is thinking
-1198 198 has taken a fork
-1198 198 has taken next fork
-1198 198 is eating
-1200 15 is sleeping
-1200 33 is sleeping
-1200 52 is thinking
-1200 7 is sleeping
-
-oooooooooooooooooooooooooo end simu = 185 nbr = 52
-1200 17 is sleeping
-1200 41 is sleeping
-1200 9 is sleeping
-1200 51 is sleeping
-1200 34 is thinking
-
-oooooooooooooooooooooooooo end simu = 184 nbr = 34
-1200 34 has taken a fork
-1200 34 has taken next fork
-1200 34 is eating
-1200 24 is thinking
-
-oooooooooooooooooooooooooo end simu = 183 nbr = 24
-1200 14 is thinking
-1200 13 is sleeping
-
-oooooooooooooooooooooooooo end simu = 182 nbr = 14
-1200 14 has taken a fork
-1200 14 has taken next fork
-1200 14 is eating
-1200 30 is thinking
-
-oooooooooooooooooooooooooo end simu = 181 nbr = 30
-1200 30 has taken a fork
-1200 27 is sleeping
-1200 42 is thinking
-
-oooooooooooooooooooooooooo end simu = 180 nbr = 42
-1200 42 has taken a fork
-1200 16 is thinking
-
-oooooooooooooooooooooooooo end simu = 179 nbr = 16
-1200 16 has taken a fork
-1200 16 has taken next fork
-1200 16 is eating
-1200 23 is sleeping
-1198 200 is thinking
-1198 200 has taken a fork
-1200 30 has taken next fork
-1200 30 is eating
-1200 3 is sleeping
-1200 11 is sleeping
-1200 46 is thinking
-
-oooooooooooooooooooooooooo end simu = 178 nbr = 46
-1200 46 has taken a fork
-1200 39 is sleeping
-1200 46 has taken next fork
-1200 46 is eating
-1200 55 is sleeping
-1200 43 is sleeping
-1200 50 has taken a fork
-1200 50 has taken next fork
-1200 50 is eating
-1200 18 is thinking
-
-oooooooooooooooooooooooooo end simu = 177 nbr = 18
-1200 49 is sleeping
-1200 18 has taken a fork
-1200 56 is thinking
-
-oooooooooooooooooooooooooo end simu = 176 nbr = 56
-1200 56 has taken a fork
-1200 18 has taken next fork
-1200 18 is eating
-1200 54 is thinking
-
-oooooooooooooooooooooooooo end simu = 175 nbr = 54
-1200 54 has taken a fork
-1200 54 has taken next fork
-1200 54 is eating
-1200 38 has taken a fork
-1200 38 has taken next fork
-1200 32 has taken a fork
-1200 32 has taken next fork
-1200 32 is eating
-1200 31 is sleeping
-1200 45 is sleeping
-1200 59 is sleeping
-1200 28 has taken a fork
-1200 28 has taken next fork
-1200 28 is eating
-1200 12 has taken a fork
-1200 12 has taken next fork
-1200 40 has taken a fork
-1200 12 is eating
-1200 40 has taken next fork
-1200 40 is eating
-1200 24 has taken a fork
-1200 24 has taken next fork
-1200 24 is eating
-1200 44 has taken a fork
-1200 44 has taken next fork
-1200 44 is eating
-1200 42 has taken next fork
-1200 42 is eating
-1198 200 has taken next fork
-1198 200 is eating
-1200 60 is thinking
-
-oooooooooooooooooooooooooo end simu = 174 nbr = 60
-1200 60 has taken a fork
-1200 2 is thinking
-
-oooooooooooooooooooooooooo end simu = 173 nbr = 2
-1200 8 has taken a fork
-1200 2 has taken a fork
-1200 8 has taken next fork
-1200 2 has taken next fork
-1200 8 is eating
-1200 2 is eating
-1200 53 is sleeping
-1200 25 is sleeping
-1200 10 has taken a fork
-1200 10 has taken next fork
-1200 10 is eating
-1200 52 has taken a fork
-1200 52 has taken next fork
-1200 52 is eating
-1200 38 is eating
-1200 20 is thinking
-
-oooooooooooooooooooooooooo end simu = 172 nbr = 20
-1200 37 is sleeping
-1200 4 has taken a fork
-1200 4 has taken next fork
-1200 4 is eating
-1200 1 is sleeping
-1200 58 has taken a fork
-1200 58 has taken next fork
-1200 58 is eating
-1200 56 has taken next fork
-1200 56 is eating
-1200 22 is thinking
-
-oooooooooooooooooooooooooo end simu = 171 nbr = 22
-1200 22 has taken a fork
-1200 22 has taken next fork
-1200 22 is eating
-1200 57 is sleeping
-1198 196 has taken next fork
-1198 196 is eating
-1200 6 has taken a fork
-1200 6 has taken next fork
-1200 6 is eating
-1200 26 has taken a fork
-1200 26 has taken next fork
-1200 26 is eating
-1200 48 is thinking
-
-oooooooooooooooooooooooooo end simu = 170 nbr = 48
-1200 48 has taken a fork
-1200 48 has taken next fork
-1200 48 is eating
-
-oooooooooooooooooooooooooo end simu = 196 nbr = 36
-1200 36 has taken a fork
-1200 36 has taken next fork
-1200 36 is eating
-1200 20 has taken a fork
-1200 20 has taken next fork
-1200 20 is eating
-1200 91 is sleeping
-1200 98 is thinking
-
-oooooooooooooooooooooooooo end simu = 169 nbr = 98
-1200 80 is thinking
-1200 73 is sleeping
-1200 104 is thinking
-
-oooooooooooooooooooooooooo end simu = 168 nbr = 80
-1200 93 is sleeping
-
-oooooooooooooooooooooooooo end simu = 167 nbr = 104
-1200 70 is thinking
-
-oooooooooooooooooooooooooo end simu = 166 nbr = 70
-1200 92 is thinking
-
-oooooooooooooooooooooooooo end simu = 165 nbr = 92
-1200 79 is sleeping
-1200 92 has taken a fork
-1200 92 has taken next fork
-1200 92 is eating
-1200 80 has taken a fork
-1200 76 is thinking
-
-oooooooooooooooooooooooooo end simu = 164 nbr = 76
-1200 99 is sleeping
-1200 107 is sleeping
-1200 67 is sleeping
-1200 94 is thinking
-
-oooooooooooooooooooooooooo end simu = 163 nbr = 94
-1200 88 is thinking
-
-oooooooooooooooooooooooooo end simu = 162 nbr = 88
-1200 102 is thinking
-
-oooooooooooooooooooooooooo end simu = 161 nbr = 102
-1200 94 has taken a fork
-1200 94 has taken next fork
-1200 94 is eating
-1200 110 is thinking
-
-oooooooooooooooooooooooooo end simu = 160 nbr = 110
-1200 119 is sleeping
-1201 64 is thinking
-
-oooooooooooooooooooooooooo end simu = 159 nbr = 64
-1200 109 is sleeping
-1201 61 is sleeping
-1200 78 is thinking
-
-oooooooooooooooooooooooooo end simu = 158 nbr = 78
-1200 118 is thinking
-
-oooooooooooooooooooooooooo end simu = 157 nbr = 118
-1200 118 has taken a fork
-1200 118 has taken next fork
-1200 118 is eating
-1200 90 is thinking
-
-oooooooooooooooooooooooooo end simu = 156 nbr = 90
-1200 89 is sleeping
-1200 90 has taken a fork
-1200 108 is thinking
-
-oooooooooooooooooooooooooo end simu = 155 nbr = 108
-1200 95 is sleeping
-1200 108 has taken a fork
-1200 90 has taken next fork
-1200 90 is eating
-1200 75 is sleeping
-1200 96 is thinking
-
-oooooooooooooooooooooooooo end simu = 154 nbr = 96
-1200 96 has taken a fork
-1201 63 is sleeping
-1200 120 is thinking
-
-oooooooooooooooooooooooooo end simu = 153 nbr = 120
-1200 120 has taken a fork
-1200 117 is sleeping
-1200 84 is thinking
-
-oooooooooooooooooooooooooo end simu = 152 nbr = 84
-1200 113 is sleeping
-1200 66 is thinking
-1200 83 is sleeping
-1200 85 is sleeping
-1200 111 is sleeping
-1200 86 is thinking
-1200 77 is sleeping
-1200 72 is thinking
-
-oooooooooooooooooooooooooo end simu = 150 nbr = 72
-1200 100 is thinking
-1200 72 has taken a fork
-
-oooooooooooooooooooooooooo end simu = 149 nbr = 100
-1200 72 has taken next fork
-1200 72 is eating
-1200 114 is thinking
-1200 100 has taken a fork
-
-oooooooooooooooooooooooooo end simu = 148 nbr = 86
-1200 86 has taken a fork
-1200 86 has taken next fork
-1200 86 is eating
-
-oooooooooooooooooooooooooo end simu = 147 nbr = 114
-1200 114 has taken a fork
-1200 68 is thinking
-1200 110 has taken a fork
-1200 110 has taken next fork
-
-oooooooooooooooooooooooooo end simu = 146 nbr = 68
-1200 68 has taken a fork
-1200 81 is sleeping
-1200 68 has taken next fork
-1200 68 is eating
-1200 106 is thinking
-
-oooooooooooooooooooooooooo end simu = 145 nbr = 106
-1200 105 is sleeping
-1200 106 has taken a fork
-1200 106 has taken next fork
-1201 60 has taken next fork
-1200 106 is eating
-1200 76 has taken a fork
-1200 76 has taken next fork
-1200 76 is eating
-1201 60 is eating
-1201 64 has taken a fork
-1201 64 has taken next fork
-1201 64 is eating
-1200 104 has taken a fork
-1200 70 has taken a fork
-1200 98 has taken a fork
-1200 70 has taken next fork
-1200 70 is eating
-1200 82 is thinking
-
-oooooooooooooooooooooooooo end simu = 144 nbr = 82
-1200 82 has taken a fork
-1200 82 has taken next fork
-1200 98 has taken next fork
-1200 74 is thinking
-
-oooooooooooooooooooooooooo end simu = 143 nbr = 74
-1200 74 has taken a fork
-1200 74 has taken next fork
-1200 74 is eating
-1200 98 is eating
-1200 84 has taken a fork
-1200 84 has taken next fork
-1200 84 is eating
-1200 96 has taken next fork
-1200 96 is eating
-1200 103 is sleeping
-1200 69 is sleeping
-1201 62 is thinking
-
-oooooooooooooooooooooooooo end simu = 142 nbr = 62
-1201 65 is sleeping
-1201 62 has taken a fork
-1201 62 has taken next fork
-1201 62 is eating
-1200 112 is thinking
-
-oooooooooooooooooooooooooo end simu = 141 nbr = 112
-1200 112 has taken a fork
-1200 112 has taken next fork
-1200 112 is eating
-1200 78 has taken a fork
-1200 78 has taken next fork
-1200 78 is eating
-1200 115 is sleeping
-1200 97 is sleeping
-1200 114 has taken next fork
-
-oooooooooooooooooooooooooo end simu = 151 nbr = 66
-1200 66 has taken a fork
-1200 114 is eating
-1200 66 has taken next fork
-1200 66 is eating
-1200 100 has taken next fork
-1200 100 is eating
-1200 110 is eating
-1200 101 is sleeping
-1200 108 has taken next fork
-1200 108 is eating
-1200 88 has taken a fork
-1200 88 has taken next fork
-1200 82 is eating
-1200 87 is sleeping
-1200 116 is thinking
-
-oooooooooooooooooooooooooo end simu = 140 nbr = 116
-1200 116 has taken a fork
-1200 116 has taken next fork
-1200 116 is eating
-1200 71 is sleeping
-1200 80 has taken next fork
-1200 80 is eating
-1200 102 has taken a fork
-1200 102 has taken next fork
-1200 102 is eating
-1200 104 has taken next fork
-1200 104 is eating
-1200 88 is eating
-1200 130 is thinking
-1200 175 is sleeping
-1200 183 is sleeping
-
-oooooooooooooooooooooooooo end simu = 139 nbr = 130
-1200 144 is thinking
-
-oooooooooooooooooooooooooo end simu = 138 nbr = 144
-1200 127 is sleeping
-1200 128 is thinking
-
-oooooooooooooooooooooooooo end simu = 137 nbr = 128
-1200 128 has taken a fork
-1200 136 is thinking
-
-oooooooooooooooooooooooooo end simu = 136 nbr = 136
-1200 166 is thinking
-1200 147 is sleeping
-
-oooooooooooooooooooooooooo end simu = 135 nbr = 166
-1200 148 is thinking
-
-oooooooooooooooooooooooooo end simu = 134 nbr = 148
-1200 148 has taken a fork
-1200 168 is thinking
-
-oooooooooooooooooooooooooo end simu = 133 nbr = 168
-1200 134 is thinking
-
-oooooooooooooooooooooooooo end simu = 132 nbr = 134
-1200 190 is thinking
-
-oooooooooooooooooooooooooo end simu = 131 nbr = 190
-1200 170 is thinking
-
-oooooooooooooooooooooooooo end simu = 130 nbr = 170
-1200 191 is sleeping
-1200 156 is thinking
-
-oooooooooooooooooooooooooo end simu = 129 nbr = 156
-1200 135 is sleeping
-1200 176 is thinking
-1201 122 is thinking
-
-oooooooooooooooooooooooooo end simu = 128 nbr = 176
-
-oooooooooooooooooooooooooo end simu = 127 nbr = 122
-1201 124 is thinking
-1200 180 is thinking
-
-oooooooooooooooooooooooooo end simu = 126 nbr = 124
-
-oooooooooooooooooooooooooo end simu = 125 nbr = 180
-1200 165 is sleeping
-1200 160 is thinking
-1200 185 is sleeping
-1200 162 is thinking
-1200 140 is thinking
-1200 187 is sleeping
-
-oooooooooooooooooooooooooo end simu = 122 nbr = 140
-1200 140 has taken a fork
-1200 152 is thinking
-1200 155 is sleeping
-
-oooooooooooooooooooooooooo end simu = 121 nbr = 152
-1200 159 is sleeping
-1200 174 is thinking
-
-oooooooooooooooooooooooooo end simu = 120 nbr = 174
-1200 141 is sleeping
-1200 145 is sleeping
-1200 169 is sleeping
-1200 188 is thinking
-
-oooooooooooooooooooooooooo end simu = 119 nbr = 188
-1200 181 is sleeping
-1200 178 is thinking
-
-oooooooooooooooooooooooooo end simu = 118 nbr = 178
-1200 193 is sleeping
-1200 142 is thinking
-
-oooooooooooooooooooooooooo end simu = 117 nbr = 142
-1200 142 has taken a fork
-1200 182 is thinking
-
-oooooooooooooooooooooooooo end simu = 116 nbr = 182
-1200 182 has taken a fork
-1200 182 has taken next fork
-1200 182 is eating
-1200 172 is thinking
-
-oooooooooooooooooooooooooo end simu = 115 nbr = 172
-1200 184 is thinking
-
-oooooooooooooooooooooooooo end simu = 114 nbr = 184
-1200 179 is sleeping
-1200 184 has taken a fork
-1200 184 has taken next fork
-1200 184 is eating
-1200 186 is thinking
-
-oooooooooooooooooooooooooo end simu = 113 nbr = 186
-1200 186 has taken a fork
-1200 186 has taken next fork
-1200 188 has taken a fork
-1200 188 has taken next fork
-1200 188 is eating
-1200 186 is eating
-1200 157 is sleeping
-1200 153 is sleeping
-1200 177 is sleeping
-1200 131 is sleeping
-1200 168 has taken a fork
-1200 138 is thinking
-
-oooooooooooooooooooooooooo end simu = 112 nbr = 138
-1200 168 has taken next fork
-1200 168 is eating
-1200 138 has taken a fork
-1200 138 has taken next fork
-1200 138 is eating
-1200 173 is sleeping
-1201 125 is sleeping
-1200 194 is thinking
-1201 121 is sleeping
-1200 154 is thinking
-
-oooooooooooooooooooooooooo end simu = 110 nbr = 154
-1200 143 is sleeping
-1200 154 has taken a fork
-1200 154 has taken next fork
-1200 154 is eating
-1200 151 is sleeping
-
-oooooooooooooooooooooooooo end simu = 111 nbr = 194
-1200 194 has taken a fork
-1201 126 is thinking
-1200 133 is sleeping
-1200 132 is thinking
-
-oooooooooooooooooooooooooo end simu = 108 nbr = 132
-1200 132 has taken a fork
-1200 132 has taken next fork
-1200 132 is eating
-1201 123 is sleeping
-1200 161 is sleeping
-1200 171 is sleeping
-1200 148 has taken next fork
-1200 148 is eating
-
-oooooooooooooooooooooooooo end simu = 109 nbr = 126
-1200 130 has taken a fork
-1201 126 has taken a fork
-1200 146 is thinking
-1200 130 has taken next fork
-
-oooooooooooooooooooooooooo end simu = 107 nbr = 146
-1200 130 is eating
-1200 146 has taken a fork
-1200 176 has taken a fork
-1200 176 has taken next fork
-1200 150 is thinking
-1200 176 is eating
-
-oooooooooooooooooooooooooo end simu = 106 nbr = 150
-1200 146 has taken next fork
-1200 146 is eating
-1200 150 has taken a fork
-1200 150 has taken next fork
-1201 126 has taken next fork
-1201 126 is eating
-1200 150 is eating
-1200 166 has taken a fork
-1200 158 is thinking
-
-oooooooooooooooooooooooooo end simu = 105 nbr = 158
-1200 158 has taken a fork
-1200 158 has taken next fork
-1200 158 is eating
-1200 164 is thinking
-
-oooooooooooooooooooooooooo end simu = 104 nbr = 164
-1200 164 has taken a fork
-1200 164 has taken next fork
-1200 164 is eating
-1200 166 has taken next fork
-1200 166 is eating
-1200 149 is sleeping
-1200 139 is sleeping
-1200 189 is sleeping
-1200 137 is sleeping
-1200 163 is sleeping
-
-oooooooooooooooooooooooooo end simu = 124 nbr = 160
-1200 160 has taken a fork
-1200 156 has taken a fork
-1200 160 has taken next fork
-1200 156 has taken next fork
-1200 192 is thinking
-
-oooooooooooooooooooooooooo end simu = 103 nbr = 192
-1200 192 has taken a fork
-1200 140 has taken next fork
-1200 192 has taken next fork
-1200 170 has taken a fork
-1200 192 is eating
-1200 170 has taken next fork
-1200 160 is eating
-1200 170 is eating
-1200 180 has taken a fork
-1200 178 has taken a fork
-1200 167 is sleeping
-1200 178 has taken next fork
-1200 178 is eating
-1201 122 has taken a fork
-1201 120 has taken next fork
-1200 144 has taken a fork
-1201 120 is eating
-1200 142 has taken next fork
-1200 142 is eating
-1200 144 has taken next fork
-1200 144 is eating
-1200 134 has taken a fork
-1200 172 has taken a fork
-1200 172 has taken next fork
-1200 172 is eating
-1200 190 has taken a fork
-1200 190 has taken next fork
-1201 124 has taken a fork
-1200 128 has taken next fork
-1200 134 has taken next fork
-1200 128 is eating
-1200 134 is eating
-1200 190 is eating
-1200 129 is sleeping
-1201 124 has taken next fork
-1200 156 is eating
-1200 140 is eating
-1200 136 has taken a fork
-1200 180 has taken next fork
-1200 180 is eating
-1200 174 has taken a fork
-1200 174 has taken next fork
-1200 152 has taken a fork
-1200 174 is eating
-1200 136 has taken next fork
-1200 136 is eating
-1200 152 has taken next fork
-1200 152 is eating
-1201 122 has taken next fork
-1201 122 is eating
-1201 124 is eating
-
-oooooooooooooooooooooooooo end simu = 123 nbr = 162
-1200 162 has taken a fork
-1200 162 has taken next fork
-1200 162 is eating
-1400 43 is thinking
-
-oooooooooooooooooooooooooo end simu = 102 nbr = 43
-1400 16 is sleeping
-1400 29 is thinking
-
-oooooooooooooooooooooooooo end simu = 101 nbr = 29
-1400 51 is thinking
-
-oooooooooooooooooooooooooo end simu = 100 nbr = 51
-1398 197 is thinking
-1400 39 is thinking
-
-oooooooooooooooooooooooooo end simu = 99 nbr = 39
-1400 48 is sleeping
-1400 57 is thinking
-
-oooooooooooooooooooooooooo end simu = 98 nbr = 57
-1400 56 is sleeping
-1400 2 is sleeping
-1400 57 has taken a fork
-1400 58 is sleeping
-1400 57 has taken next fork
-1400 57 is eating
-1400 6 is sleeping
-1400 5 is thinking
-
-oooooooooooooooooooooooooo end simu = 97 nbr = 5
-1400 5 has taken a fork
-1400 5 has taken next fork
-1400 5 is eating
-1400 53 is thinking
-
-oooooooooooooooooooooooooo end simu = 96 nbr = 53
-1400 1 is thinking
-
-oooooooooooooooooooooooooo end simu = 95 nbr = 1
-1400 52 is sleeping
-1400 23 is thinking
-
-oooooooooooooooooooooooooo end simu = 94 nbr = 23
-1400 23 has taken a fork
-1400 50 is sleeping
-1398 196 is sleeping
-1400 11 is thinking
-
-oooooooooooooooooooooooooo end simu = 93 nbr = 11
-1400 59 is thinking
-
-oooooooooooooooooooooooooo end simu = 92 nbr = 59
-1400 59 has taken a fork
-1400 15 is thinking
-
-oooooooooooooooooooooooooo end simu = 91 nbr = 15
-1400 10 is sleeping
-1400 55 is thinking
-
-oooooooooooooooooooooooooo end simu = 90 nbr = 55
-1400 55 has taken a fork
-1400 55 has taken next fork
-1400 55 is eating
-1400 45 is thinking
-
-oooooooooooooooooooooooooo end simu = 89 nbr = 45
-1400 45 has taken a fork
-1400 14 is sleeping
-1400 17 is thinking
-
-oooooooooooooooooooooooooo end simu = 88 nbr = 17
-1400 46 is sleeping
-1400 17 has taken a fork
-1398 199 is thinking
-1398 199 has taken a fork
-1400 27 is thinking
-
-oooooooooooooooooooooooooo end simu = 87 nbr = 27
-1400 27 has taken a fork
-1400 27 has taken next fork
-1400 27 is eating
-1400 24 is sleeping
-1400 18 is sleeping
-1400 49 is thinking
-
-oooooooooooooooooooooooooo end simu = 86 nbr = 49
-1400 49 has taken a fork
-1400 49 has taken next fork
-1400 49 is eating
-1400 35 is thinking
-
-oooooooooooooooooooooooooo end simu = 85 nbr = 35
-1400 4 is sleeping
-1400 47 is thinking
-
-oooooooooooooooooooooooooo end simu = 84 nbr = 47
-1400 47 has taken a fork
-1400 47 has taken next fork
-1400 47 is eating
-1398 200 is sleeping
-1400 32 is sleeping
-1400 25 is thinking
-
-oooooooooooooooooooooooooo end simu = 83 nbr = 25
-1400 25 has taken a fork
-1400 21 is thinking
-1400 40 is sleeping
-
-oooooooooooooooooooooooooo end simu = 82 nbr = 21
-1400 21 has taken a fork
-1400 21 has taken next fork
-1400 21 is eating
-1400 34 is sleeping
-1400 36 is sleeping
-1400 19 is thinking
-
-oooooooooooooooooooooooooo end simu = 81 nbr = 19
-1400 41 is thinking
-
-oooooooooooooooooooooooooo end simu = 80 nbr = 41
-1400 41 has taken a fork
-1400 19 has taken a fork
-1400 19 has taken next fork
-1400 19 is eating
-1400 13 is thinking
-1400 30 is sleeping
-1400 9 is thinking
-
-oooooooooooooooooooooooooo end simu = 78 nbr = 9
-1400 9 has taken a fork
-1400 12 is sleeping
-1400 20 is sleeping
-1400 42 is sleeping
-1400 33 is thinking
-
-oooooooooooooooooooooooooo end simu = 77 nbr = 33
-1400 33 has taken a fork
-1400 33 has taken next fork
-1400 33 is eating
-1400 53 has taken a fork
-1400 53 has taken next fork
-1400 53 is eating
-1400 51 has taken a fork
-1400 51 has taken next fork
-1400 51 is eating
-1400 54 is sleeping
-1400 26 is sleeping
-1400 29 has taken a fork
-1400 29 has taken next fork
-1400 29 is eating
-1400 11 has taken a fork
-1400 11 has taken next fork
-1400 11 is eating
-1400 15 has taken a fork
-1400 15 has taken next fork
-1400 15 is eating
-1400 45 has taken next fork
-1400 45 is eating
-1400 28 is sleeping
-1400 23 has taken next fork
-1400 17 has taken next fork
-1400 17 is eating
-1400 1 has taken a fork
-1398 199 has taken next fork
-1398 199 is eating
-1400 25 has taken next fork
-1400 25 is eating
-1400 35 has taken a fork
-1400 35 has taken next fork
-1400 39 has taken a fork
-1400 39 has taken next fork
-1400 9 has taken next fork
-
-oooooooooooooooooooooooooo end simu = 79 nbr = 13
-1400 43 has taken a fork
-1400 43 has taken next fork
-1400 43 is eating
-1400 13 has taken a fork
-1400 41 has taken next fork
-1400 41 is eating
-1400 8 is sleeping
-1400 37 is thinking
-
-oooooooooooooooooooooooooo end simu = 76 nbr = 37
-1400 37 has taken a fork
-1400 37 has taken next fork
-1400 37 is eating
-1400 22 is sleeping
-1400 3 is thinking
-
-oooooooooooooooooooooooooo end simu = 75 nbr = 3
-1400 3 has taken a fork
-1400 3 has taken next fork
-1400 3 is eating
-1398 198 is sleeping
-1400 31 is thinking
-
-oooooooooooooooooooooooooo end simu = 74 nbr = 31
-1400 31 has taken a fork
-1400 31 has taken next fork
-1400 31 is eating
-1400 7 is thinking
-
-oooooooooooooooooooooooooo end simu = 73 nbr = 7
-1400 7 has taken a fork
-1398 197 has taken a fork
-1400 7 has taken next fork
-1400 7 is eating
-1398 197 has taken next fork
-1398 197 is eating
-1400 23 is eating
-1400 1 has taken next fork
-1400 1 is eating
-1400 35 is eating
-1400 38 is sleeping
-1400 39 is eating
-1400 9 is eating
-1400 13 has taken next fork
-1400 13 is eating
-1400 44 is sleeping
-1398 195 has taken next fork
-1398 195 is eating
-1400 110 is sleeping
-1400 119 is thinking
-
-oooooooooooooooooooooooooo end simu = 72 nbr = 119
-1400 94 is sleeping
-1400 89 is thinking
-
-oooooooooooooooooooooooooo end simu = 71 nbr = 89
-1400 74 is sleeping
-1400 113 is thinking
-
-oooooooooooooooooooooooooo end simu = 70 nbr = 113
-1400 88 is sleeping
-1400 96 is sleeping
-1400 75 is thinking
-
-oooooooooooooooooooooooooo end simu = 69 nbr = 75
-1400 69 is thinking
-1400 103 is thinking
-1400 75 has taken a fork
-1400 72 is sleeping
-
-oooooooooooooooooooooooooo end simu = 68 nbr = 103
-1400 99 is thinking
-
-oooooooooooooooooooooooooo end simu = 67 nbr = 99
-1400 71 is thinking
-
-oooooooooooooooooooooooooo end simu = 65 nbr = 71
-1400 71 has taken a fork
-1400 101 is thinking
-
-oooooooooooooooooooooooooo end simu = 64 nbr = 101
-1400 101 has taken a fork
-1400 71 has taken next fork
-1400 71 is eating
-1400 107 is thinking
-
-oooooooooooooooooooooooooo end simu = 63 nbr = 107
-1400 85 is thinking
-
-oooooooooooooooooooooooooo end simu = 62 nbr = 85
-1401 62 is sleeping
-1400 102 is sleeping
-1400 92 is sleeping
-1400 80 is sleeping
-1400 79 is thinking
-
-oooooooooooooooooooooooooo end simu = 61 nbr = 79
-1400 77 is thinking
-
-oooooooooooooooooooooooooo end simu = 60 nbr = 77
-1400 112 is sleeping
-1401 65 is thinking
-
-oooooooooooooooooooooooooo end simu = 59 nbr = 65
-1400 104 is sleeping
-1400 109 is thinking
-
-oooooooooooooooooooooooooo end simu = 58 nbr = 109
-1401 61 is thinking
-
-oooooooooooooooooooooooooo end simu = 57 nbr = 61
-1400 78 is sleeping
-1400 111 is thinking
-
-oooooooooooooooooooooooooo end simu = 56 nbr = 111
-1400 84 is sleeping
-1400 93 is thinking
-
-oooooooooooooooooooooooooo end simu = 55 nbr = 93
-1400 93 has taken a fork
-1400 93 has taken next fork
-1400 70 is sleeping
-1400 93 is eating
-1401 63 is thinking
-
-oooooooooooooooooooooooooo end simu = 54 nbr = 63
-1401 63 has taken a fork
-1401 64 is sleeping
-1401 63 has taken next fork
-1401 63 is eating
-1400 90 is sleeping
-1400 89 has taken a fork
-1400 89 has taken next fork
-1400 89 is eating
-1400 83 is thinking
-
-oooooooooooooooooooooooooo end simu = 53 nbr = 83
-1400 76 is sleeping
-1400 98 is sleeping
-1400 105 is thinking
-1400 66 is sleeping
-
-oooooooooooooooooooooooooo end simu = 52 nbr = 105
-1400 105 has taken a fork
-1400 100 is sleeping
-1400 118 is sleeping
-1400 105 has taken next fork
-1400 81 is thinking
-1400 105 is eating
-
-oooooooooooooooooooooooooo end simu = 51 nbr = 81
-1400 81 has taken a fork
-1400 81 has taken next fork
-1400 81 is eating
-1400 73 is thinking
-
-oooooooooooooooooooooooooo end simu = 50 nbr = 73
-1400 73 has taken a fork
-
-oooooooooooooooooooooooooo end simu = 66 nbr = 69
-1400 73 has taken next fork
-1400 69 has taken a fork
-1400 114 is sleeping
-1400 69 has taken next fork
-1400 69 is eating
-1400 73 is eating
-1400 103 has taken a fork
-1400 101 has taken next fork
-1400 101 is eating
-1400 68 is sleeping
-1400 113 has taken a fork
-1400 113 has taken next fork
-1400 103 has taken next fork
-1400 103 is eating
-1400 113 is eating
-1400 79 has taken a fork
-1400 79 has taken next fork
-1400 79 is eating
-1401 65 has taken a fork
-1401 65 has taken next fork
-1401 65 is eating
-1400 67 is thinking
-1400 77 has taken a fork
-1400 77 has taken next fork
-1400 77 is eating
-
-oooooooooooooooooooooooooo end simu = 49 nbr = 67
-1400 67 has taken a fork
-1400 67 has taken next fork
-1400 67 is eating
-1400 75 has taken next fork
-1400 75 is eating
-1400 109 has taken a fork
-1400 109 has taken next fork
-1400 109 is eating
-1400 83 has taken a fork
-1400 83 has taken next fork
-1400 83 is eating
-1400 107 has taken a fork
-1400 108 is sleeping
-1400 107 has taken next fork
-1400 107 is eating
-1400 99 has taken a fork
-1400 99 has taken next fork
-1400 99 is eating
-1400 115 is thinking
-
-oooooooooooooooooooooooooo end simu = 48 nbr = 115
-1400 91 is thinking
-1400 115 has taken a fork
-1400 115 has taken next fork
-
-oooooooooooooooooooooooooo end simu = 47 nbr = 91
-1400 115 is eating
-1400 91 has taken a fork
-1400 91 has taken next fork
-1400 91 is eating
-1400 97 is thinking
-
-oooooooooooooooooooooooooo end simu = 46 nbr = 97
-1400 97 has taken a fork
-1400 119 has taken a fork
-1400 82 is sleeping
-1400 86 is sleeping
-1400 106 is sleeping
-1400 87 is thinking
-
-oooooooooooooooooooooooooo end simu = 45 nbr = 87
-1400 87 has taken a fork
-1400 87 has taken next fork
-1401 59 has taken next fork
-1401 59 is eating
-1401 61 has taken a fork
-1400 87 is eating
-1401 61 has taken next fork
-1401 61 is eating
-1401 60 is sleeping
-1400 85 has taken a fork
-1400 85 has taken next fork
-1400 85 is eating
-1400 117 is thinking
-
-oooooooooooooooooooooooooo end simu = 44 nbr = 117
-1400 117 has taken a fork
-1400 117 has taken next fork
-1400 117 is eating
-1400 111 has taken a fork
-1400 111 has taken next fork
-1400 111 is eating
-1400 97 has taken next fork
-1400 97 is eating
-1400 116 is sleeping
-1400 95 is thinking
-
-oooooooooooooooooooooooooo end simu = 43 nbr = 95
-1400 95 has taken a fork
-1400 95 has taken next fork
-1400 95 is eating
-1400 132 is sleeping
-1400 136 is sleeping
-1400 145 is thinking
-
-oooooooooooooooooooooooooo end simu = 42 nbr = 145
-1400 157 is thinking
-
-oooooooooooooooooooooooooo end simu = 41 nbr = 157
-1400 141 is thinking
-
-oooooooooooooooooooooooooo end simu = 40 nbr = 141
-1400 142 is sleeping
-1400 169 is thinking
-
-oooooooooooooooooooooooooo end simu = 39 nbr = 169
-1400 140 is sleeping
-1400 174 is sleeping
-1400 193 is thinking
-
-oooooooooooooooooooooooooo end simu = 38 nbr = 193
-1400 188 is sleeping
-1400 141 has taken a fork
-1400 141 has taken next fork
-1400 141 is eating
-1401 120 is sleeping
-1400 168 is sleeping
-1400 179 is thinking
-1400 192 is sleeping
-1400 182 is sleeping
-1400 162 is sleeping
-1400 161 is thinking
-
-oooooooooooooooooooooooooo end simu = 37 nbr = 161
-1400 190 is sleeping
-1400 155 is thinking
-
-oooooooooooooooooooooooooo end simu = 35 nbr = 155
-1400 160 is sleeping
-1400 161 has taken a fork
-1400 161 has taken next fork
-1400 161 is eating
-
-oooooooooooooooooooooooooo end simu = 36 nbr = 179
-1400 173 is thinking
-1400 128 is sleeping
-
-oooooooooooooooooooooooooo end simu = 34 nbr = 173
-1400 137 is thinking
-
-oooooooooooooooooooooooooo end simu = 33 nbr = 137
-1401 122 is sleeping
-1400 158 is sleeping
-1400 137 has taken a fork
-1400 152 is sleeping
-1400 166 is sleeping
-1400 177 is thinking
-1400 165 is thinking
-
-oooooooooooooooooooooooooo end simu = 32 nbr = 177
-1400 153 is thinking
-
-oooooooooooooooooooooooooo end simu = 31 nbr = 165
-1400 149 is thinking
-
-oooooooooooooooooooooooooo end simu = 29 nbr = 149
-1400 130 is sleeping
-1400 191 is thinking
-
-oooooooooooooooooooooooooo end simu = 28 nbr = 191
-1400 191 has taken a fork
-1400 191 has taken next fork
-1400 191 is eating
-1400 176 is sleeping
-
-oooooooooooooooooooooooooo end simu = 30 nbr = 153
-1400 171 is thinking
-1400 147 is thinking
-1400 153 has taken a fork
-
-oooooooooooooooooooooooooo end simu = 27 nbr = 171
-1400 181 is thinking
-
-oooooooooooooooooooooooooo end simu = 26 nbr = 147
-
-oooooooooooooooooooooooooo end simu = 25 nbr = 181
-1400 139 is thinking
-
-oooooooooooooooooooooooooo end simu = 24 nbr = 139
-1400 178 is sleeping
-1400 144 is sleeping
-1400 131 is thinking
-
-oooooooooooooooooooooooooo end simu = 23 nbr = 131
-1400 131 has taken a fork
-1400 131 has taken next fork
-1400 131 is eating
-1400 183 is thinking
-
-oooooooooooooooooooooooooo end simu = 22 nbr = 183
-1400 154 is sleeping
-1400 183 has taken a fork
-1401 126 is sleeping
-1400 185 is thinking
-
-oooooooooooooooooooooooooo end simu = 21 nbr = 185
-1400 185 has taken a fork
-1400 150 is sleeping
-1400 183 has taken next fork
-1400 183 is eating
-1400 127 is thinking
-
-oooooooooooooooooooooooooo end simu = 20 nbr = 127
-1400 127 has taken a fork
-1400 134 is sleeping
-1401 119 has taken next fork
-1401 119 is eating
-1400 127 has taken next fork
-1400 163 is thinking
-
-oooooooooooooooooooooooooo end simu = 19 nbr = 163
-1400 163 has taken a fork
-1400 127 is eating
-1400 164 is sleeping
-1400 193 has taken a fork
-1400 163 has taken next fork
-1400 163 is eating
-1400 170 is sleeping
-1400 169 has taken a fork
-1400 169 has taken next fork
-1400 169 is eating
-1400 143 is thinking
-
-oooooooooooooooooooooooooo end simu = 18 nbr = 143
-1400 143 has taken a fork
-1400 143 has taken next fork
-1400 143 is eating
-1400 175 is thinking
-
-oooooooooooooooooooooooooo end simu = 17 nbr = 175
-1400 175 has taken a fork
-1400 151 is thinking
-1400 175 has taken next fork
-1400 175 is eating
-
-oooooooooooooooooooooooooo end simu = 16 nbr = 151
-1400 135 is thinking
-1400 151 has taken a fork
-1400 151 has taken next fork
-
-oooooooooooooooooooooooooo end simu = 15 nbr = 135
-1400 135 has taken a fork
-1400 189 is thinking
-1400 135 has taken next fork
-1400 135 is eating
-
-oooooooooooooooooooooooooo end simu = 14 nbr = 189
-1401 121 is thinking
-
-oooooooooooooooooooooooooo end simu = 13 nbr = 121
-1400 148 is sleeping
-1401 121 has taken a fork
-1401 121 has taken next fork
-1401 121 is eating
-1401 125 is thinking
-
-oooooooooooooooooooooooooo end simu = 12 nbr = 125
-1400 186 is sleeping
-1401 125 has taken a fork
-1401 125 has taken next fork
-1400 146 is sleeping
-1401 123 is thinking
-
-oooooooooooooooooooooooooo end simu = 11 nbr = 123
-1400 156 is sleeping
-1401 123 has taken a fork
-1401 123 has taken next fork
-1401 125 is eating
-1401 123 is eating
-1400 167 is thinking
-
-oooooooooooooooooooooooooo end simu = 10 nbr = 167
-1400 167 has taken a fork
-1400 167 has taken next fork
-1400 167 is eating
-1400 180 is sleeping
-1400 173 has taken a fork
-1400 173 has taken next fork
-1400 173 is eating
-1400 184 is sleeping
-1400 129 is thinking
-
-oooooooooooooooooooooooooo end simu = 9 nbr = 129
-1400 129 has taken a fork
-1400 129 has taken next fork
-1401 124 is sleeping
-1400 129 is eating
-1400 172 is sleeping
-1400 179 has taken a fork
-1400 179 has taken next fork
-1400 179 is eating
-1400 145 has taken a fork
-1400 145 has taken next fork
-1400 145 is eating
-1400 177 has taken a fork
-1400 153 has taken next fork
-1400 133 is thinking
-1400 153 is eating
-
-oooooooooooooooooooooooooo end simu = 8 nbr = 133
-1400 133 has taken a fork
-1400 155 has taken a fork
-1400 177 has taken next fork
-1400 155 has taken next fork
-1400 155 is eating
-1400 177 is eating
-1400 165 has taken a fork
-1400 165 has taken next fork
-1400 165 is eating
-1400 171 has taken a fork
-1400 171 has taken next fork
-1400 137 has taken next fork
-1400 171 is eating
-1400 137 is eating
-1400 139 has taken a fork
-1400 139 has taken next fork
-1400 139 is eating
-1400 138 is sleeping
-1400 133 has taken next fork
-1400 133 is eating
-1400 187 is thinking
-
-oooooooooooooooooooooooooo end simu = 7 nbr = 187
-1400 187 has taken a fork
-1400 151 is eating
-1400 189 has taken a fork
-1400 189 has taken next fork
-1400 189 is eating
-1400 147 has taken a fork
-1400 147 has taken next fork
-1400 147 is eating
-1400 159 is thinking
-
-oooooooooooooooooooooooooo end simu = 6 nbr = 159
-1400 159 has taken a fork
-1400 157 has taken a fork
-1400 157 has taken next fork
-1400 157 is eating
-1400 159 has taken next fork
-1400 159 is eating
-1400 181 has taken a fork
-1400 185 has taken next fork
-1400 185 is eating
-1400 187 has taken next fork
-1400 187 is eating
-1400 149 has taken a fork
-1400 149 has taken next fork
-1400 149 is eating
-1400 181 has taken next fork
-1400 181 is eating
-1600 17 is sleeping
-1600 25 is sleeping
-1600 16 is thinking
-
-oooooooooooooooooooooooooo end simu = 5 nbr = 16
-1600 21 is sleeping
-1600 45 is sleeping
-1598 195 is sleeping
-1600 13 is sleeping
-1600 20 is thinking
-
-oooooooooooooooooooooooooo end simu = 4 nbr = 20
-1600 2 is thinking
-
-oooooooooooooooooooooooooo end simu = 3 nbr = 2
-1600 43 is sleeping
-1600 28 is thinking
-
-oooooooooooooooooooooooooo end simu = 2 nbr = 28
-1600 57 is sleeping
-1600 23 is sleeping
-1600 35 is sleeping
-1600 29 is sleeping
-1600 1 is sleeping
-1600 56 is thinking
-
-oooooooooooooooooooooooooo end simu = 1 nbr = 56
-1598 197 is sleeping
-1600 31 is sleeping
-1600 8 is thinking
-
-oooooooooooooooooooooooooo end simu = 0 nbr = 8
-1600 48 is thinking
-1600 42 is thinking
-
-oooooooooooooooooooooooooo end simu = -2 nbr = 42
-1600 42 has taken a fork
-1600 39 is sleeping
-1600 42 has taken next fork
-1600 42 is eating
-
-oooooooooooooooooooooooooo end simu = -1 nbr = 48
-1600 9 is sleeping
-1598 196 is thinking
-
-oooooooooooooooooooooooooo end simu = -3 nbr = 196
-1598 196 has taken a fork
-1598 196 has taken next fork
-1598 196 is eating
-1600 5 is sleeping
-1600 55 is sleeping
-1600 6 is thinking
-
-oooooooooooooooooooooooooo end simu = -4 nbr = 6
-1600 10 is thinking
-1600 38 is thinking
-
-oooooooooooooooooooooooooo end simu = -5 nbr = 38
-1600 36 is thinking
-
-oooooooooooooooooooooooooo end simu = -6 nbr = 10
-1600 58 is thinking
-
-oooooooooooooooooooooooooo end simu = -7 nbr = 36
-1600 36 has taken a fork
-1600 44 is thinking
-
-oooooooooooooooooooooooooo end simu = -8 nbr = 44
-1600 44 has taken a fork
-1600 44 has taken next fork
-1600 18 is thinking
-
-oooooooooooooooooooooooooo end simu = -10 nbr = 18
-1600 49 is sleeping
-1600 47 is sleeping
-1600 4 is thinking
-
-oooooooooooooooooooooooooo end simu = -11 nbr = 4
-1600 18 has taken a fork
-1598 194 has taken next fork
-1598 194 is eating
-1600 3 is sleeping
-1600 22 is thinking
-1600 14 is thinking
-1600 50 is thinking
-
-oooooooooooooooooooooooooo end simu = -13 nbr = 50
-1600 50 has taken a fork
-
-oooooooooooooooooooooooooo end simu = -14 nbr = 14
-1600 14 has taken a fork
-1598 200 is thinking
-
-oooooooooooooooooooooooooo end simu = -15 nbr = 200
-1600 24 is thinking
-
-oooooooooooooooooooooooooo end simu = -16 nbr = 24
-1600 24 has taken a fork
-1600 24 has taken next fork
-1600 24 is eating
-
-oooooooooooooooooooooooooo end simu = -12 nbr = 22
-1600 52 is thinking
-
-oooooooooooooooooooooooooo end simu = -17 nbr = 52
-1600 22 has taken a fork
-1600 22 has taken next fork
-1600 22 is eating
-1600 34 is thinking
-
-oooooooooooooooooooooooooo end simu = -18 nbr = 34
-1600 34 has taken a fork
-1600 34 has taken next fork
-1600 34 is eating
-1600 33 is sleeping
-1600 12 is thinking
-
-oooooooooooooooooooooooooo end simu = -19 nbr = 12
-1600 26 is thinking
-1600 12 has taken a fork
-1600 12 has taken next fork
-1600 12 is eating
-
-oooooooooooooooooooooooooo end simu = -20 nbr = 26
-1600 26 has taken a fork
-1600 41 is sleeping
-1600 2 has taken a fork
-1600 26 has taken next fork
-1600 26 is eating
-1600 19 is sleeping
-1600 30 is thinking
-
-oooooooooooooooooooooooooo end simu = -21 nbr = 30
-1600 30 has taken a fork
-1600 30 has taken next fork
-1600 30 is eating
-1598 199 is sleeping
-1600 32 is thinking
-
-oooooooooooooooooooooooooo end simu = -22 nbr = 32
-1600 32 has taken a fork
-1600 10 has taken a fork
-1600 10 has taken next fork
-
-oooooooooooooooooooooooooo end simu = -9 nbr = 58
-1600 10 is eating
-1600 58 has taken a fork
-1600 4 has taken a fork
-1600 4 has taken next fork
-1600 53 is sleeping
-1600 4 is eating
-1600 28 has taken a fork
-1600 28 has taken next fork
-1600 28 is eating
-1600 2 has taken next fork
-1600 20 has taken a fork
-1600 2 is eating
-1600 20 has taken next fork
-1600 16 has taken a fork
-1600 16 has taken next fork
-1600 14 has taken next fork
-1600 14 is eating
-1600 16 is eating
-1600 52 has taken a fork
-1600 36 has taken next fork
-1600 36 is eating
-1600 50 has taken next fork
-1600 50 is eating
-1600 15 is sleeping
-1600 7 is sleeping
-1600 51 is sleeping
-1600 37 is sleeping
-1600 56 has taken a fork
-1600 56 has taken next fork
-1600 56 is eating
-1600 40 is thinking
-
-oooooooooooooooooooooooooo end simu = -23 nbr = 40
-1600 40 has taken a fork
-1600 40 has taken next fork
-1600 40 is eating
-1600 6 has taken a fork
-1600 6 has taken next fork
-1600 6 is eating
-1600 46 is thinking
-
-oooooooooooooooooooooooooo end simu = -24 nbr = 46
-1600 46 has taken a fork
-1600 46 has taken next fork
-1600 46 is eating
-1600 32 has taken next fork
-1600 32 is eating
-1600 44 is eating
-1600 27 is sleeping
-1600 54 is thinking
-
-oooooooooooooooooooooooooo end simu = -25 nbr = 54
-1600 54 has taken a fork
-1600 54 has taken next fork
-1600 54 is eating
-1600 18 has taken next fork
-1600 18 is eating
-1598 200 has taken a fork
-1598 200 has taken next fork
-1598 200 is eating
-1600 38 has taken a fork
-1600 38 has taken next fork
-1600 38 is eating
-1600 52 has taken next fork
-1600 52 is eating
-1600 8 has taken a fork
-1600 8 has taken next fork
-1600 8 is eating
-1598 198 is thinking
-1600 48 has taken a fork
-1600 11 is sleeping
-1600 48 has taken next fork
-1600 48 is eating
-1600 20 is eating
-
-oooooooooooooooooooooooooo end simu = -26 nbr = 198
-1598 198 has taken a fork
-1598 198 has taken next fork
-1598 198 is eating
-1600 101 is sleeping
-1601 59 is sleeping
-1600 88 is thinking
-
-oooooooooooooooooooooooooo end simu = -27 nbr = 88
-1600 115 is sleeping
-1600 72 is thinking
-
-oooooooooooooooooooooooooo end simu = -28 nbr = 72
-1600 78 is thinking
-
-oooooooooooooooooooooooooo end simu = -29 nbr = 78
-1601 61 is sleeping
-1600 103 is sleeping
-1600 105 is sleeping
-1600 74 is thinking
-
-oooooooooooooooooooooooooo end simu = -30 nbr = 74
-1600 94 is thinking
-
-oooooooooooooooooooooooooo end simu = -31 nbr = 94
-1600 117 is sleeping
-1600 80 is thinking
-
-oooooooooooooooooooooooooo end simu = -32 nbr = 80
-1600 97 is sleeping
-1601 60 is thinking
-1600 68 is thinking
-
-oooooooooooooooooooooooooo end simu = -34 nbr = 68
-
-oooooooooooooooooooooooooo end simu = -33 nbr = 60
-1601 60 has taken a fork
-1601 60 has taken next fork
-1601 60 is eating
-1600 90 is thinking
-
-oooooooooooooooooooooooooo end simu = -35 nbr = 90
-1600 82 is thinking
-
-oooooooooooooooooooooooooo end simu = -36 nbr = 82
-1600 69 is sleeping
-1600 71 is sleeping
-1600 92 is thinking
-
-oooooooooooooooooooooooooo end simu = -37 nbr = 92
-1601 63 is sleeping
-1600 104 is thinking
-
-oooooooooooooooooooooooooo end simu = -38 nbr = 104
-1600 118 is thinking
-1600 104 has taken a fork
-
-oooooooooooooooooooooooooo end simu = -39 nbr = 118
-1600 106 is thinking
-1600 118 has taken a fork
-
-oooooooooooooooooooooooooo end simu = -40 nbr = 106
-1601 58 has taken next fork
-1601 58 is eating
-1600 104 has taken next fork
-1600 104 is eating
-1600 114 is thinking
-
-oooooooooooooooooooooooooo end simu = -41 nbr = 114
-1601 65 is sleeping
-1600 106 has taken a fork
-1600 110 is thinking
-
-oooooooooooooooooooooooooo end simu = -42 nbr = 110
-1600 70 is thinking
-
-oooooooooooooooooooooooooo end simu = -43 nbr = 70
-1600 70 has taken a fork
-1600 70 has taken next fork
-1600 70 is eating
-1600 89 is sleeping
-1600 100 is thinking
-
-oooooooooooooooooooooooooo end simu = -44 nbr = 100
-1600 81 is sleeping
-1600 79 is sleeping
-1601 62 is thinking
-
-oooooooooooooooooooooooooo end simu = -45 nbr = 62
-1601 62 has taken a fork
-1601 62 has taken next fork
-1600 109 is sleeping
-1601 62 is eating
-1601 64 is thinking
-
-ooooooooooooooooooooooProcess:         philo [15351]
-Path:            /Volumes/VOLUME/*/philo
-Load Address:    0x100799000
-Identifier:      philo
-Version:         ???
-Code Type:       X86-64
-Parent Process:  zsh [8443]
-
-Date/Time:       2023-06-13 21:18:44.616 +0100
-Launch Time:     2023-06-13 21:18:42.526 +0100
-OS Version:      Mac OS X 10.15.7 (19H2)
-Report Version:  7
-Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
-Analysis Tool Version:  Xcode 12.4 (12D4e)
-
-Physical footprint:         1940K
-Physical footprint (peak):  1940K
-----
-
-leaks Report Version: 4.0
-Process 15351: 357 nodes malloced for 34 KB
-Process 15351: 0 leaks for 0 total leaked bytes.
-
-oooo end simu = -46 nbr = 64
-1600 102 is thinking
-1601 64 has taken a fork
-
-oooooooooooooooooooooooooo end simu = -47 nbr = 102
-1600 99 is sleeping
-1600 102 has taken a fork
-1600 112 is thinking
-1600 95 is sleeping
-
-oooooooooooooooooooooooooo end simu = -48 nbr = 112
-1600 102 has taken next fork
-1600 98 is thinking
-1600 112 has taken a fork
-1600 113 is sleeping
-
-oooooooooooooooooooooooooo end simu = -49 nbr = 98
-1600 98 has taken a fork
-1600 112 has taken next fork
-1600 102 is eating
-1600 112 is eating
-1600 86 is thinking
-
-oooooooooooooooooooooooooo end simu = -50 nbr = 86
-1600 87 is sleeping
-1600 98 has taken next fork
-1600 98 is eating
-1600 67 is sleeping
-1600 83 is sleeping
-1600 72 has taken a fork
-1600 72 has taken next fork
-1600 72 is eating
-1600 108 is thinking
-
-oooooooooooooooooooooooooo end simu = -51 nbr = 108
-1600 108 has taken a fork
-1600 108 has taken next fork
-1600 108 is eating
-1600 90 has taken a fork
-1600 90 has taken next fork
-1600 90 is eating
-1600 80 has taken a fork
-1600 80 has taken next fork
-1600 82 has taken a fork
-1600 110 has taken a fork
-1600 110 has taken next fork
-1600 110 is eating
-1600 82 has taken next fork
-1600 82 is eating
-1600 78 has taken a fork
-1600 78 has taken next fork
-1600 78 is eating
-1600 106 has taken next fork
-1600 106 is eating
-1600 74 has taken a fork
-1600 74 has taken next fork
-1600 74 is eating
-1600 92 has taken a fork
-1600 77 is sleeping
-1600 92 has taken next fork
-1600 92 is eating
-1600 116 is thinking
-
-oooooooooooooooooooooooooo end simu = -52 nbr = 116
-1600 116 has taken a fork
-1600 116 has taken next fork
-1600 116 is eating
-1600 96 is thinking
-
-oooooooooooooooooooooooooo end simu = -53 nbr = 96
-1600 96 has taken a fork
-1600 111 is sleeping
-1600 93 is sleeping
-1600 96 has taken next fork
-1600 96 is eating
-1600 114 has taken a fork
-1600 114 has taken next fork
-1600 114 is eating
-1600 73 is sleeping
-1600 91 is sleeping
-1600 76 is thinking
-
-oooooooooooooooooooooooooo end simu = -54 nbr = 76
-1601 64 has taken next fork
-1601 64 is eating
-1600 76 has taken a fork
-1600 76 has taken next fork
-1600 76 is eating
-1600 66 is thinking
-
-oooooooooooooooooooooooooo end simu = -55 nbr = 66
-1600 66 has taken a fork
-1600 66 has taken next fork
-1600 66 is eating
-1600 75 is sleeping
-1600 88 has taken a fork
-1600 88 has taken next fork
-1600 88 is eating
-1600 68 has taken a fork
-1600 68 has taken next fork
-1600 68 is eating
-1600 85 is sleeping
-1600 80 is eating
-1600 94 has taken a fork
-1600 84 is thinking
-
-oooooooooooooooooooooooooo end simu = -56 nbr = 84
-1600 94 has taken next fork
-1600 94 is eating
-1600 107 is sleeping
-1600 84 has taken a fork
-1600 84 has taken next fork
-1600 84 is eating
-1600 86 has taken a fork
-1600 86 has taken next fork
-1600 86 is eating
-1600 100 has taken a fork
-1600 100 has taken next fork
-1600 100 is eating
+1 200 has taken a fork
+60 21 has taken a fork
+60 35 has taken a fork
+60 35 has taken a fork
+60 35 is eating
+60 11 has taken a fork
+60 11 has taken a fork
+60 11 is eating
+60 17 has taken a fork
+60 17 has taken a fork
+60 17 is eating
+60 13 has taken a fork
+60 13 has taken a fork
+60 13 is eating
+60 37 has taken a fork
+60 37 has taken a fork
+60 37 is eating
+60 29 has taken a fork
+60 29 has taken a fork
+60 29 is eating
+60 9 has taken a fork
+60 9 has taken a fork
+60 9 is eating
+60 19 has taken a fork
+60 19 has taken a fork
+60 19 is eating
+60 31 has taken a fork
+60 31 has taken a fork
+60 31 is eating
+60 27 has taken a fork
+60 27 has taken a fork
+60 27 is eating
+60 5 has taken a fork
+60 5 has taken a fork
+60 5 is eating
+60 3 has taken a fork
+60 39 has taken a fork
+60 3 has taken a fork
+60 3 is eating
+60 7 has taken a fork
+60 23 has taken a fork
+60 23 has taken a fork
+60 23 is eating
+60 7 has taken a fork
+60 7 is eating
+60 21 has taken a fork
+60 21 is eating
+60 33 has taken a fork
+60 33 has taken a fork
+60 33 is eating
+60 25 has taken a fork
+60 25 has taken a fork
+60 25 is eating
+60 1 has taken a fork
+60 1 is eating
+60 15 has taken a fork
+60 15 has taken a fork
+60 15 is eating
+60 47 has taken a fork
+60 47 has taken a fork
+60 47 is eating
+60 61 has taken a fork
+60 61 has taken a fork
+60 61 is eating
+60 83 has taken a fork
+60 83 has taken a fork
+60 83 is eating
+60 67 has taken a fork
+60 67 has taken a fork
+60 91 has taken a fork
+60 91 has taken a fork
+60 91 is eating
+60 67 is eating
+60 99 has taken a fork
+60 99 has taken a fork
+60 99 is eating
+60 57 has taken a fork
+60 87 has taken a fork
+60 57 has taken a fork
+60 57 is eating
+60 95 has taken a fork
+61 39 has taken a fork
+60 95 has taken a fork
+60 95 is eating
+60 43 has taken a fork
+60 63 has taken a fork
+60 63 has taken a fork
+60 43 has taken a fork
+60 63 is eating
+61 39 is eating
+60 81 has taken a fork
+60 81 has taken a fork
+60 43 is eating
+60 103 has taken a fork
+60 103 has taken a fork
+60 103 is eating
+60 97 has taken a fork
+60 51 has taken a fork
+60 51 has taken a fork
+60 97 has taken a fork
+60 97 is eating
+60 49 has taken a fork
+60 49 has taken a fork
+60 49 is eating
+60 51 is eating
+60 65 has taken a fork
+60 105 has taken a fork
+60 59 has taken a fork
+60 59 has taken a fork
+60 69 has taken a fork
+60 79 has taken a fork
+60 89 has taken a fork
+60 87 has taken a fork
+60 89 has taken a fork
+60 45 has taken a fork
+60 87 is eating
+60 45 has taken a fork
+60 45 is eating
+60 41 has taken a fork
+60 41 has taken a fork
+60 81 is eating
+60 41 is eating
+60 73 has taken a fork
+60 73 has taken a fork
+60 73 is eating
+60 75 has taken a fork
+60 75 has taken a fork
+60 75 is eating
+60 65 has taken a fork
+60 65 is eating
+60 53 has taken a fork
+60 53 has taken a fork
+60 93 has taken a fork
+60 71 has taken a fork
+60 71 has taken a fork
+60 71 is eating
+60 101 has taken a fork
+60 101 has taken a fork
+60 101 is eating
+60 89 is eating
+60 79 has taken a fork
+60 79 is eating
+60 85 has taken a fork
+60 85 has taken a fork
+60 85 is eating
+60 69 has taken a fork
+60 69 is eating
+60 53 is eating
+60 55 has taken a fork
+60 55 has taken a fork
+60 59 is eating
+60 55 is eating
+60 77 has taken a fork
+60 77 has taken a fork
+60 77 is eating
+60 93 has taken a fork
+60 93 is eating
+60 133 has taken a fork
+60 133 has taken a fork
+60 133 is eating
+60 139 has taken a fork
+60 139 has taken a fork
+60 139 is eating
+60 165 has taken a fork
+60 157 has taken a fork
+60 135 has taken a fork
+60 135 has taken a fork
+60 135 is eating
+60 179 has taken a fork
+60 179 has taken a fork
+60 179 is eating
+60 191 has taken a fork
+60 191 has taken a fork
+60 191 is eating
+61 115 has taken a fork
+61 115 has taken a fork
+61 115 is eating
+60 131 has taken a fork
+60 119 has taken a fork
+60 131 has taken a fork
+60 131 is eating
+60 187 has taken a fork
+60 187 has taken a fork
+60 175 has taken a fork
+60 175 has taken a fork
+60 175 is eating
+60 183 has taken a fork
+60 183 has taken a fork
+60 183 is eating
+61 111 has taken a fork
+61 111 has taken a fork
+61 111 is eating
+60 143 has taken a fork
+60 127 has taken a fork
+60 129 has taken a fork
+60 129 has taken a fork
+60 193 has taken a fork
+60 129 is eating
+60 141 has taken a fork
+60 177 has taken a fork
+60 177 has taken a fork
+60 181 has taken a fork
+60 181 has taken a fork
+60 181 is eating
+60 195 has taken a fork
+60 195 has taken a fork
+60 185 has taken a fork
+60 195 is eating
+60 185 has taken a fork
+60 159 has taken a fork
+60 159 has taken a fork
+60 117 has taken a fork
+60 159 is eating
+60 117 has taken a fork
+60 185 is eating
+60 117 is eating
+60 147 has taken a fork
+60 147 has taken a fork
+60 157 has taken a fork
+60 121 has taken a fork
+60 171 has taken a fork
+60 121 has taken a fork
+60 157 is eating
+60 163 has taken a fork
+61 105 has taken a fork
+61 105 is eating
+60 169 has taken a fork
+60 163 has taken a fork
+60 163 is eating
+60 169 has taken a fork
+60 169 is eating
+61 107 has taken a fork
+60 151 has taken a fork
+60 189 has taken a fork
+60 189 has taken a fork
+61 109 has taken a fork
+61 109 has taken a fork
+60 151 has taken a fork
+61 109 is eating
+60 151 is eating
+61 107 has taken a fork
+61 107 is eating
+60 167 has taken a fork
+60 189 is eating
+60 167 has taken a fork
+60 167 is eating
+60 165 has taken a fork
+60 165 is eating
+61 113 has taken a fork
+60 153 has taken a fork
+60 153 has taken a fork
+60 125 has taken a fork
+60 161 has taken a fork
+60 125 has taken a fork
+60 161 has taken a fork
+60 161 is eating
+60 125 is eating
+60 199 has taken a fork
+60 155 has taken a fork
+60 155 has taken a fork
+60 155 is eating
+60 145 has taken a fork
+60 197 has taken a fork
+60 187 is eating
+60 197 has taken a fork
+60 197 is eating
+60 145 has taken a fork
+60 145 is eating
+60 127 has taken a fork
+60 193 has taken a fork
+60 193 is eating
+60 149 has taken a fork
+60 149 has taken a fork
+60 177 is eating
+60 149 is eating
+60 141 has taken a fork
+60 141 is eating
+60 171 has taken a fork
+60 171 is eating
+60 121 is eating
+60 123 has taken a fork
+60 153 is eating
+61 113 has taken a fork
+60 123 has taken a fork
+60 123 is eating
+61 113 is eating
+60 143 has taken a fork
+60 143 is eating
+60 127 is eating
+60 119 has taken a fork
+60 119 is eating
+60 173 has taken a fork
+60 137 has taken a fork
+60 173 has taken a fork
+60 173 is eating
+60 137 has taken a fork
+60 147 is eating
+60 137 is eating
+120 38 is sleeping
+120 38 is thinking
+120 2 is sleeping
+120 2 is thinking
+120 30 is sleeping
+120 30 is thinking
+120 4 is sleeping
+120 4 is thinking
+120 28 is sleeping
+120 28 is thinking
+120 32 is sleeping
+120 32 is thinking
+120 6 is sleeping
+120 6 is thinking
+120 24 is sleeping
+120 24 is thinking
+120 22 is sleeping
+120 22 is thinking
+120 8 is sleeping
+120 8 is thinking
+120 26 is sleeping
+120 26 is thinking
+120 16 is sleeping
+120 16 is thinking
+120 14 is sleeping
+120 14 is thinking
+120 12 is sleeping
+120 12 is thinking
+120 12 has taken a fork
+120 10 is sleeping
+120 10 is thinking
+120 10 has taken a fork
+120 10 has taken a fork
+120 10 is eating
+120 18 is sleeping
+120 18 is thinking
+120 18 has taken a fork
+120 34 is sleeping
+120 34 is thinking
+120 34 has taken a fork
+120 36 is sleeping
+120 36 is thinking
+120 38 has taken a fork
+120 20 is sleeping
+120 20 is thinking
+120 20 has taken a fork
+120 20 has taken a fork
+120 20 is eating
+120 30 has taken a fork
+120 30 has taken a fork
+120 30 is eating
+120 24 has taken a fork
+120 24 has taken a fork
+120 24 is eating
+120 28 has taken a fork
+120 28 has taken a fork
+120 28 is eating
+120 6 has taken a fork
+120 6 has taken a fork
+120 6 is eating
+120 32 has taken a fork
+120 32 has taken a fork
+120 32 is eating
+120 2 has taken a fork
+120 2 has taken a fork
+120 2 is eating
+118 200 has taken a fork
+118 200 is eating
+120 14 has taken a fork
+120 14 has taken a fork
+120 14 is eating
+120 12 has taken a fork
+120 12 is eating
+120 22 has taken a fork
+120 22 has taken a fork
+120 22 is eating
+120 16 has taken a fork
+120 16 has taken a fork
+120 18 has taken a fork
+120 18 is eating
+120 16 is eating
+120 4 has taken a fork
+120 4 has taken a fork
+120 4 is eating
+120 8 has taken a fork
+120 8 has taken a fork
+120 26 has taken a fork
+120 26 has taken a fork
+120 26 is eating
+120 36 has taken a fork
+120 36 has taken a fork
+120 36 is eating
+120 8 is eating
+120 34 has taken a fork
+120 34 is eating
+120 48 is sleeping
+120 48 is thinking
+120 62 is sleeping
+120 62 is thinking
+120 66 is sleeping
+120 66 is thinking
+120 60 is sleeping
+120 60 is thinking
+120 60 has taken a fork
+120 80 is sleeping
+120 80 is thinking
+120 68 is sleeping
+120 68 is thinking
+120 98 is sleeping
+120 98 is thinking
+120 98 has taken a fork
+120 98 has taken a fork
+120 102 is sleeping
+120 46 is sleeping
+120 102 is thinking
+120 46 is thinking
+120 102 has taken a fork
+120 74 is sleeping
+120 74 is thinking
+120 98 is eating
+121 40 is sleeping
+120 56 is sleeping
+120 56 is thinking
+120 56 has taken a fork
+120 78 is sleeping
+120 78 is thinking
+120 78 has taken a fork
+120 64 is sleeping
+120 64 is thinking
+120 84 is sleeping
+120 84 is thinking
+120 50 is sleeping
+120 50 is thinking
+120 94 is sleeping
+120 100 is sleeping
+120 100 is thinking
+120 100 has taken a fork
+120 100 has taken a fork
+120 94 is thinking
+120 100 is eating
+120 54 is sleeping
+120 54 is thinking
+120 70 is sleeping
+120 70 is thinking
+120 96 is sleeping
+120 58 is sleeping
+120 58 is thinking
+120 96 is thinking
+120 96 has taken a fork
+120 96 has taken a fork
+120 96 is eating
+120 70 has taken a fork
+120 90 is sleeping
+120 90 is thinking
+120 90 has taken a fork
+120 70 has taken a fork
+120 70 is eating
+120 88 is sleeping
+120 88 is thinking
+120 76 is sleeping
+120 76 is thinking
+120 76 has taken a fork
+120 76 has taken a fork
+120 76 is eating
+120 104 is sleeping
+120 104 is thinking
+120 82 is sleeping
+120 42 is sleeping
+120 42 is thinking
+120 42 has taken a fork
+120 42 has taken a fork
+120 42 is eating
+120 92 is sleeping
+120 92 is thinking
+120 92 has taken a fork
+120 44 is sleeping
+120 44 is thinking
+120 72 is sleeping
+120 72 is thinking
+120 72 has taken a fork
+120 72 has taken a fork
+120 72 is eating
+120 52 is sleeping
+120 52 is thinking
+120 52 has taken a fork
+120 52 has taken a fork
+120 52 is eating
+120 68 has taken a fork
+120 68 has taken a fork
+120 68 is eating
+121 40 is thinking
+121 40 has taken a fork
+121 40 has taken a fork
+121 40 is eating
+120 48 has taken a fork
+120 48 has taken a fork
+120 86 is sleeping
+120 48 is eating
+120 90 has taken a fork
+120 90 is eating
+120 58 has taken a fork
+120 58 has taken a fork
+120 58 is eating
+120 86 is thinking
+120 86 has taken a fork
+120 86 has taken a fork
+120 56 has taken a fork
+120 86 is eating
+120 56 is eating
+120 60 has taken a fork
+120 60 is eating
+120 64 has taken a fork
+120 64 has taken a fork
+120 50 has taken a fork
+120 64 is eating
+120 50 has taken a fork
+120 50 is eating
+120 82 is thinking
+120 82 has taken a fork
+120 82 has taken a fork
+120 82 is eating
+120 66 has taken a fork
+120 104 has taken a fork
+120 66 has taken a fork
+120 66 is eating
+120 102 has taken a fork
+120 102 is eating
+120 46 has taken a fork
+120 46 has taken a fork
+120 46 is eating
+120 54 has taken a fork
+120 54 has taken a fork
+120 54 is eating
+120 88 has taken a fork
+120 88 has taken a fork
+120 88 is eating
+120 44 has taken a fork
+120 44 has taken a fork
+120 44 is eating
+120 78 has taken a fork
+120 78 is eating
+121 38 has taken a fork
+121 38 is eating
+120 94 has taken a fork
+120 92 has taken a fork
+120 92 is eating
+120 94 has taken a fork
+120 94 is eating
+120 62 has taken a fork
+120 62 has taken a fork
+120 62 is eating
+120 84 has taken a fork
+120 84 has taken a fork
+120 84 is eating
+120 74 has taken a fork
+120 74 has taken a fork
+120 74 is eating
+120 80 has taken a fork
+120 80 has taken a fork
+120 80 is eating
+120 160 is sleeping
+120 160 is thinking
+120 198 is sleeping
+120 198 is thinking
+120 152 is sleeping
+120 152 is thinking
+121 108 is sleeping
+121 108 is thinking
+121 108 has taken a fork
+120 168 is sleeping
+120 168 is thinking
+120 120 is sleeping
+120 120 is thinking
+120 138 is sleeping
+120 138 is thinking
+120 130 is sleeping
+120 130 is thinking
+120 148 is sleeping
+120 148 is thinking
+120 174 is sleeping
+120 174 is thinking
+120 174 has taken a fork
+120 178 is sleeping
+120 178 is thinking
+120 178 has taken a fork
+120 134 is sleeping
+120 134 is thinking
+121 110 is sleeping
+121 110 is thinking
+121 110 has taken a fork
+120 150 is sleeping
+120 150 is thinking
+120 150 has taken a fork
+120 150 has taken a fork
+120 126 is sleeping
+120 126 is thinking
+120 190 is sleeping
+120 150 is eating
+120 190 is thinking
+120 190 has taken a fork
+121 114 is sleeping
+121 114 is thinking
+120 126 has taken a fork
+120 126 has taken a fork
+120 126 is eating
+120 136 is sleeping
+121 114 has taken a fork
+121 114 has taken a fork
+121 114 is eating
+120 136 is thinking
+120 164 is sleeping
+120 164 is thinking
+120 164 has taken a fork
+120 140 is sleeping
+120 140 is thinking
+120 184 is sleeping
+120 184 is thinking
+120 180 is sleeping
+120 180 is thinking
+120 132 is sleeping
+120 132 is thinking
+120 176 is sleeping
+120 176 is thinking
+120 132 has taken a fork
+120 182 is sleeping
+120 182 is thinking
+120 182 has taken a fork
+120 186 is sleeping
+120 186 is thinking
+120 186 has taken a fork
+120 186 has taken a fork
+120 186 is eating
+120 158 is sleeping
+120 158 is thinking
+120 158 has taken a fork
+120 158 has taken a fork
+120 158 is eating
+120 118 is sleeping
+120 192 is sleeping
+120 192 is thinking
+120 118 is thinking
+120 118 has taken a fork
+120 156 is sleeping
+120 156 is thinking
+120 156 has taken a fork
+120 156 has taken a fork
+120 156 is eating
+120 118 has taken a fork
+120 118 is eating
+121 112 is sleeping
+121 112 is thinking
+120 146 is sleeping
+120 146 is thinking
+120 146 has taken a fork
+120 146 has taken a fork
+120 146 is eating
+120 170 is sleeping
+120 170 is thinking
+120 170 has taken a fork
+120 170 has taken a fork
+120 170 is eating
+120 188 is sleeping
+120 188 is thinking
+120 188 has taken a fork
+120 188 has taken a fork
+120 188 is eating
+121 116 is sleeping
+121 116 is thinking
+121 116 has taken a fork
+121 116 has taken a fork
+121 116 is eating
+120 172 is sleeping
+120 172 is thinking
+120 172 has taken a fork
+120 172 has taken a fork
+120 172 is eating
+120 194 is sleeping
+120 194 is thinking
+120 194 has taken a fork
+121 106 is sleeping
+121 106 is thinking
+120 194 has taken a fork
+120 194 is eating
+121 106 has taken a fork
+121 106 has taken a fork
+121 106 is eating
+120 142 is sleeping
+120 142 is thinking
+120 142 has taken a fork
+120 142 has taken a fork
+120 142 is eating
+120 162 is sleeping
+120 162 is thinking
+120 128 is sleeping
+120 166 is sleeping
+120 128 is thinking
+120 128 has taken a fork
+120 128 has taken a fork
+120 128 is eating
+120 124 is sleeping
+120 124 is thinking
+120 124 has taken a fork
+120 124 has taken a fork
+120 166 is thinking
+120 166 has taken a fork
+120 166 has taken a fork
+120 166 is eating
+120 144 is sleeping
+120 160 has taken a fork
+120 160 has taken a fork
+120 160 is eating
+120 144 is thinking
+120 144 has taken a fork
+120 144 has taken a fork
+120 144 is eating
+120 196 is sleeping
+120 196 is thinking
+120 138 has taken a fork
+120 138 has taken a fork
+120 138 is eating
+120 196 has taken a fork
+120 196 has taken a fork
+120 196 is eating
+120 168 has taken a fork
+120 152 has taken a fork
+120 152 has taken a fork
+120 152 is eating
+120 148 has taken a fork
+120 148 has taken a fork
+120 148 is eating
+120 198 has taken a fork
+120 168 has taken a fork
+120 168 is eating
+120 120 has taken a fork
+120 120 has taken a fork
+120 120 is eating
+120 136 has taken a fork
+120 134 has taken a fork
+120 134 has taken a fork
+120 134 is eating
+120 136 has taken a fork
+120 136 is eating
+120 132 has taken a fork
+120 122 is sleeping
+120 122 is thinking
+120 122 has taken a fork
+120 132 is eating
+120 122 has taken a fork
+120 122 is eating
+120 184 has taken a fork
+120 184 has taken a fork
+120 184 is eating
+120 180 has taken a fork
+120 180 has taken a fork
+120 180 is eating
+120 178 has taken a fork
+120 178 is eating
+120 130 has taken a fork
+120 130 has taken a fork
+120 130 is eating
+120 192 has taken a fork
+120 192 has taken a fork
+120 192 is eating
+120 190 has taken a fork
+120 190 is eating
+120 162 has taken a fork
+120 162 has taken a fork
+120 162 is eating
+120 182 has taken a fork
+121 112 has taken a fork
+121 112 has taken a fork
+121 112 is eating
+120 182 is eating
+121 110 has taken a fork
+121 110 is eating
+120 124 is eating
+120 176 has taken a fork
+120 176 has taken a fork
+120 176 is eating
+120 174 has taken a fork
+120 174 is eating
+121 108 has taken a fork
+121 108 is eating
+120 140 has taken a fork
+120 154 is sleeping
+120 140 has taken a fork
+120 154 is thinking
+120 154 has taken a fork
+120 154 has taken a fork
+120 154 is eating
+120 140 is eating
+120 164 has taken a fork
+120 164 is eating
+121 104 has taken a fork
+121 104 is eating
+
+132 198 died

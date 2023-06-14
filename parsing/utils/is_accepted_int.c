@@ -6,7 +6,7 @@
 /*   By: mohtakra <mohtakra@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/07 21:47:17 by mohtakra          #+#    #+#             */
-/*   Updated: 2023/06/13 23:24:46 by mohtakra         ###   ########.fr       */
+/*   Updated: 2023/06/14 00:48:55 by mohtakra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,21 +60,24 @@ int	is_positive_int(char *str, int nbr)
 /*return true if the given matrix countain only chars that is in range of int*/
 int	is_accepted_int(int argc, char **matrix, t_args *args)
 {
-	if (matrix && *matrix && args)
+	if (!(matrix && *matrix && args))
+		return (0);
+	if (!is_positive_int(matrix[1], args->nbr_philosophers))
+		return (0);
+	if (!is_positive_int(matrix[2], args->time_to_die))
+		return (0);
+	if (!is_positive_int(matrix[3], args->time_to_eat))
+		return (0);
+	if (!is_positive_int(matrix[4], args->time_to_sleep))
+		return (0);
+	if (argc == 6)
 	{
-		if (!is_positive_int(matrix[1], args->nbr_philosophers))
+		if (!is_positive_int(matrix[5], args->number_time_to_eat))
 			return (0);
-		if (!is_positive_int(matrix[2], args->time_to_die))
-			return (0);
-		if (!is_positive_int(matrix[3], args->time_to_eat))
-			return (0);
-		if (!is_positive_int(matrix[4], args->time_to_sleep))
-			return (0);
-		if (argc == 6)
-		{
-			if (!is_positive_int(matrix[5], args->number_time_to_eat))
-				return (0);
-		}
 	}
+	if (args->time_to_die < 60 || args->time_to_eat < 60)
+		return (0);
+	if (args->time_to_sleep < 60 || args->nbr_philosophers > 200)
+		return (0);
 	return (1);
 }
