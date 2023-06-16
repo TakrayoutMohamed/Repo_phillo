@@ -34,8 +34,8 @@ static bool	eat(t_list *lst)
 
 static void	sleep_think(t_list *lst)
 {
-	ft_usleep(lst->args->time_to_sleep);
 	print_state('s', lst, right_now() - lst->start_simul);
+	ft_usleep(lst->args->time_to_sleep);
 	print_state('t', lst, right_now() - lst->start_simul);
 }
 
@@ -75,3 +75,4 @@ void	*eat_sleep_think(void *args)
 	}
 	return (NULL);
 }
+
