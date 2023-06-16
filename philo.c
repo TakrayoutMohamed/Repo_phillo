@@ -96,21 +96,23 @@ int	main(int argc, char **argv)
 
 	lst = NULL;
 	args = set_mutual_data(argc, argv);
-	if (!args)
-		return (1);
-	if (!is_valid_parsing(argc, argv, args))
+	if (!args || !is_valid_parsing(argc, argv, args))
 		return (free(args), 1);
 	if (!create_linked_list(&lst, args) || !create_threads(lst, args))
 		return (free(args), ft_lstclear(&lst, del), 1);
-	while (args->end_simul > 0)
+	while (1)
 	{
+		pthread_mutex_lock(&lst->args->lock_decrement);
+		if (args->end_simul <= 0)
+			break ;
+		pthread_mutex_unlock(&lst->args->lock_decrement);
 		pthread_mutex_lock(&lst->args->lock_time);
 		help_last_meat = right_now() - lst->last_meal;
 		pthread_mutex_unlock(&lst->args->lock_time);
 		if (help_last_meat > (unsigned long) args->time_to_die)
-			return (print_state('d', lst, right_now() - lst->last_meal), 0);
+			return (print_state('d', lst, right_now() - lst->start_simul), 0);
 		lst = lst->next;
-		usleep(10);
+		usleep(80);
 	}
-	return (print_state('k', lst, right_now() - lst->last_meal), 0);
+	return (0);
 }
