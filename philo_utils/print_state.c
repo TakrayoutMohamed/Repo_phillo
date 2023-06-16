@@ -26,8 +26,11 @@ void	print_state(char c, t_list *lst, unsigned long time)
 	if (c != 'd' && c != 'k')
 		pthread_mutex_unlock(&lst->args->lock_output);
 	if (c == 'd')
-		printf("\n%ld %d died\n", time, lst->nbr);
-	if (c == 'f')
+	{
+		usleep(200);
+		printf("%ld %d died\n", time, lst->nbr);
+	}
+	else if (c == 'f')
 		printf("%ld %d has taken a fork\n", time, lst->nbr);
 	else if (c == 'e')
 		printf("%ld %d is eating\n", time, lst->nbr);
